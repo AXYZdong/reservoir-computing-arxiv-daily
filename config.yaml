@@ -16,7 +16,6 @@ json_readme_path: './docs/rc-arxiv-daily.json'
 json_gitpage_path: './docs/rc-arxiv-daily-web.json'
 json_wechat_path: './docs/rc-arxiv-daily-wechat.json'
 
-md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 

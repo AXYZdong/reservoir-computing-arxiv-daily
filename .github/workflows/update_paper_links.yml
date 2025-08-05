@@ -53,7 +53,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update Reservoir Computing Arxiv Papers"
-          files: README.md docs/rc-arxiv-daily.json docs/rc-arxiv-daily-web.json docs/index.md docs/rc-arxiv-daily-wechat.json docs/wechat.md
+          files: docs/rc-arxiv-daily.json docs/rc-arxiv-daily-web.json docs/index.md docs/rc-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
