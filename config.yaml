@@ -20,9 +20,9 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "Reservoir Computing":
-        filters: ["Reservoir Computing"]
-    "ESN":
-        filters: ["ESN", "Echo State Network"]
-    "LSM":
-        filters: ["LSM", "Liquid State Machine"]
+  "Reservoir Computing":
+    filters: ['ti:"Reservoir Computing" OR abs:"Reservoir Computing"']
+  "ESN":
+    filters: ['ti:"Echo State Network" OR abs:"Echo State Network"', 'ti:"ESN" OR abs:"ESN"']
+  "LSM":
+    filters: ['ti:"Liquid State Machine" OR abs:"Liquid State Machine"', 'ti:"LSM" OR abs:"LSM"']

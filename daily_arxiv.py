@@ -26,7 +26,7 @@ def load_config(config_file: str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
+        EXCAPE = ''
         QUOTA = ''  # NO-USE
         OR = ' OR '  # TODO
 
