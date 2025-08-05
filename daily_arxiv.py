@@ -409,18 +409,18 @@ def demo(**config):
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            # update json data
-            update_json_file(json_file, data_collector)
-        # json data to markdown
-        json_to_md(json_file, md_file, task='Update Readme', \
-                   show_badge=show_badge)
+    # if publish_readme:
+    #     json_file = config['json_readme_path']
+    #     md_file = config['md_readme_path']
+    #     # update paper links
+    #     if config['update_paper_links']:
+    #         update_paper_links(json_file)
+    #     else:
+    #         # update json data
+    #         update_json_file(json_file, data_collector)
+    #     # json data to markdown
+    #     json_to_md(json_file, md_file, task='Update Readme', \
+    #                show_badge=show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
