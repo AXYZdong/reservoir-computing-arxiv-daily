@@ -27,4 +27,4 @@ keywords:
     "ESN":
         filters: ["ESN", "Echo State Network"]
     "LSM":
-        filters: ["
+        filters: ["LSM", "Liquid State Machine"]
