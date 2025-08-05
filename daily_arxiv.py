@@ -96,7 +96,7 @@ def get_code_link(qword: str) -> str:
     return code_link
 
 
-def get_daily_papers(topic, query="slam", max_results=2):
+def get_daily_papers(topic, query=" ", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -136,34 +136,29 @@ def get_daily_papers(topic, query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
 
         try:
-            # source code link
-            r = requests.get(code_url).json()
+            # ---------- 1. 先把所有论文的基础信息写进字典 ----------
+            content[
+                paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_key}]({paper_url})|null|\n"
+            content_to_web[
+                paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+
+            # ---------- 2. 再去查 code；查到就更新 ----------
+            try:
+                r = requests.get(code_url, timeout=10)
+                r.raise_for_status()
+                r_json = r.json()
+            except Exception as e:
+                logging.warning(f'Failed to fetch code info for {paper_key}: {e}')
+                r_json = {}
+
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                    update_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                    update_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
+            if r_json.get("official"):
+                repo_url = r_json["official"]["url"]
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                    update_time, paper_title, paper_first_author, paper_key, paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                    update_time, paper_title, paper_first_author, paper_url, paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            if repo_url:
+                # 有 code，把原来的 “|null|” 或 “Code: null” 替换成真实链接
+                content[paper_key] = content[paper_key].replace("|null|", f"|**[link]({repo_url})**|")
+                content_to_web[paper_key] += f", Code: **[{repo_url}]({repo_url})**"
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -288,7 +283,7 @@ def json_to_md(filename, md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-', '.')
 
-    with open(filename, "r") as f:
+    with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
         if not content:
             data = {}
@@ -296,11 +291,11 @@ def json_to_md(filename, md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename, "w+") as f:
+    with open(md_filename, "w+", encoding="utf-8") as f:
         pass
 
     # write data into README.md
-    with open(md_filename, "a+") as f:
+    with open(md_filename, "a+", encoding="utf-8") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
@@ -405,6 +400,8 @@ def demo(**config):
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
+
+    print("Data Collector:", data_collector)
 
     # 1. update README.md file
     # if publish_readme:

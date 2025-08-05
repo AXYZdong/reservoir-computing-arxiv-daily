@@ -14,15 +14,25 @@ publish_gitpage: True
 # file paths
 json_readme_path: './docs/rc-arxiv-daily.json'
 json_gitpage_path: './docs/rc-arxiv-daily-web.json'
-json_wechat_path: './docs/rc-arxiv-daily-wechat.json'
+#json_wechat_path: './docs/rc-arxiv-daily-wechat.json'
 
 md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
   "Reservoir Computing":
-    filters: ['ti:"Reservoir Computing" OR abs:"Reservoir Computing"']
+    filters:
+      - 'ti:"Reservoir Computing" OR abs:"Reservoir Computing"'
+      - 'ti:"reservoir computer" OR abs:"reservoir computer"'
+      - 'ti:"physical reservoir" OR abs:"physical reservoir"'
+      - 'ti:"dynamical reservoir" OR abs:"dynamical reservoir"'
+
   "ESN":
-    filters: ['ti:"Echo State Network" OR abs:"Echo State Network"', 'ti:"ESN" OR abs:"ESN"']
+    filters:
+      - 'ti:"Echo State Network" OR abs:"Echo State Network"'
+      - 'ti:"Echo State Networks" OR abs:"Echo State Networks"'
+
   "LSM":
-    filters: ['ti:"Liquid State Machine" OR abs:"Liquid State Machine"', 'ti:"LSM" OR abs:"LSM"']
+    filters:
+      - 'ti:"Liquid State Machine" OR abs:"Liquid State Machine"'
+      - 'ti:"Liquid State Machines" OR abs:"Liquid State Machines"'

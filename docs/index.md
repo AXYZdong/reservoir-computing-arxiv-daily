@@ -7,7 +7,6 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.08.05
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
