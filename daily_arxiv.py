@@ -390,9 +390,7 @@ def demo(**config):
 
     keywords = config['kv']
     max_results = config['max_results']
-    publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
