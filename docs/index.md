@@ -7,11 +7,13 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.08.06
+## Updated on 2025.08.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**RCUKF: Data-Driven Modeling Meets Bayesian Estimation**|Kumar Anurag et.al.|[2508.04985](http://arxiv.org/abs/2508.04985)|null|
+|**2025-08-06**|**Oxide Interface-Based Polymorphic Electronic Devices for Neuromorphic Computing**|Soumen Pradhan et.al.|[2508.03515](http://arxiv.org/abs/2508.03515)|null|
 |**2025-08-04**|**Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots**|Xinyi Wang et.al.|[2508.02407](http://arxiv.org/abs/2508.02407)|null|
 |**2025-08-04**|**Reservoir Computing with Evolved Critical Neural Cellular Automata**|Sidney Pontes-Filho et.al.|[2508.02218](http://arxiv.org/abs/2508.02218)|null|
 |**2025-08-01**|**Probing graph topology from local quantum measurements**|F. Romeo et.al.|[2507.23689](http://arxiv.org/abs/2507.23689)|null|
@@ -67,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**Echo State Networks for Bitcoin Time Series Prediction**|Mansi Sharma et.al.|[2508.05416](http://arxiv.org/abs/2508.05416)|null|
 |**2025-07-24**|**Contraction, Criticality, and Capacity: A Dynamical-Systems Perspective on Echo-State Networks**|Pradeep Singh et.al.|[2507.18467](http://arxiv.org/abs/2507.18467)|null|
 |**2025-07-08**|**Minimal Deterministic Echo State Networks Outperform Random Reservoirs in Learning Chaotic Dynamics**|Francesco Martinuzzi et.al.|[2507.06050](http://arxiv.org/abs/2507.06050)|null|
 |**2025-06-25**|**Echo State Transformer: When chaos brings memory**|Yannis Bendi-Ouis et.al.|[2507.02917](http://arxiv.org/abs/2507.02917)|null|
