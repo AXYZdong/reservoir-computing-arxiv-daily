@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.08.11
+## Updated on 2025.08.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-14**|**Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains**|Brooke R. Weborg et.al.|[2508.10887](http://arxiv.org/abs/2508.10887)|null|
+|**2025-08-13**|**Residual Reservoir Memory Networks**|Matteo Pinna et.al.|[2508.09925](http://arxiv.org/abs/2508.09925)|null|
 |**2025-08-07**|**RCUKF: Data-Driven Modeling Meets Bayesian Estimation**|Kumar Anurag et.al.|[2508.04985](http://arxiv.org/abs/2508.04985)|null|
 |**2025-08-06**|**Oxide Interface-Based Polymorphic Electronic Devices for Neuromorphic Computing**|Soumen Pradhan et.al.|[2508.03515](http://arxiv.org/abs/2508.03515)|null|
 |**2025-08-04**|**Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots**|Xinyi Wang et.al.|[2508.02407](http://arxiv.org/abs/2508.02407)|null|
@@ -70,12 +72,14 @@
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20250811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-14**|**Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains**|Brooke R. Weborg et.al.|[2508.10887](http://arxiv.org/abs/2508.10887)|null|
+|**2025-08-12**|**Real-time forecasting of chaotic dynamics from sparse data and autoencoders**|Elise Özalp et.al.|[2508.08729](http://arxiv.org/abs/2508.08729)|null|
 |**2025-08-07**|**Echo State Networks for Bitcoin Time Series Prediction**|Mansi Sharma et.al.|[2508.05416](http://arxiv.org/abs/2508.05416)|null|
 |**2025-07-24**|**Contraction, Criticality, and Capacity: A Dynamical-Systems Perspective on Echo-State Networks**|Pradeep Singh et.al.|[2507.18467](http://arxiv.org/abs/2507.18467)|null|
 |**2025-07-08**|**Minimal Deterministic Echo State Networks Outperform Random Reservoirs in Learning Chaotic Dynamics**|Francesco Martinuzzi et.al.|[2507.06050](http://arxiv.org/abs/2507.06050)|null|
@@ -128,7 +132,7 @@
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20250811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 ## LSM
 
@@ -170,7 +174,7 @@
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20250811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
