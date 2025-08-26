@@ -7,11 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.08.25
+## Updated on 2025.08.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-22**|**A New Approach to Stability of Delay Differential Equations with Time-Varying Delays via Isospectral Reduction**|Quinlan Leishman et.al.|[2508.16469](http://arxiv.org/abs/2508.16469)|null|
+|**2025-08-22**|**Compact All optical Reservoir Computing via Luminescence Dynamics in Rare-earth Ions-doped Nanocrystals**|Junyan Chen et.al.|[2508.16042](http://arxiv.org/abs/2508.16042)|null|
+|**2025-08-21**|**Robust and Efficient Quantum Reservoir Computing with Discrete Time Crystal**|Da Zhang et.al.|[2508.15230](http://arxiv.org/abs/2508.15230)|null|
+|**2025-08-20**|**Quantum reservoir computing induced by controllable damping**|Emanuele Ricci et.al.|[2508.14621](http://arxiv.org/abs/2508.14621)|null|
 |**2025-08-17**|**High-Accuracy Temporal Prediction via Experimental Quantum Reservoir Computing in Correlated Spins**|Yanjun Hou et.al.|[2508.12383](http://arxiv.org/abs/2508.12383)|null|
 |**2025-08-15**|**Multi-Sensory Cognitive Computing for Learning Population-level Brain Connectivity**|Mayssa Soussia et.al.|[2508.11436](http://arxiv.org/abs/2508.11436)|null|
 |**2025-08-15**|**The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators**|Ali Karimi et.al.|[2508.11175](http://arxiv.org/abs/2508.11175)|null|
@@ -77,6 +81,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**Quantum reservoir computing induced by controllable damping**|Emanuele Ricci et.al.|[2508.14621](http://arxiv.org/abs/2508.14621)|null|
 |**2025-08-14**|**Empirical Investigation into Configuring Echo State Networks for Representative Benchmark Problem Domains**|Brooke R. Weborg et.al.|[2508.10887](http://arxiv.org/abs/2508.10887)|null|
 |**2025-08-12**|**Real-time forecasting of chaotic dynamics from sparse data and autoencoders**|Elise Özalp et.al.|[2508.08729](http://arxiv.org/abs/2508.08729)|null|
 |**2025-08-11**|**An Experimental Reservoir-Augmented Foundation Model: 6G O-RAN Case Study**|Farhad Rezazadeh et.al.|[2508.07778](http://arxiv.org/abs/2508.07778)|null|
