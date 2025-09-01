@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
