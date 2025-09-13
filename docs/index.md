@@ -8,15 +8,15 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 
-            <p align="center">
-              <h1 align="center">
-                Reservoir Computing Arxiv Daily
-              </h1>
-            </p>
+<p align="center">
+  <h1 align="center">
+    Reservoir Computing Arxiv Daily
+  </h1>
+</p>
 
-            This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
-            including Echo State Networks (ESN) and Liquid State Machine (LSM).
-            ## Updated on 2025.09.13
+This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
+including Echo State Networks (ESN) and Liquid State Machine (LSM).
+## Updated on 2025.09.13
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
