@@ -308,15 +308,15 @@ def json_to_md(filename, md_filename,
 
         if use_title == True:
             content = '''
-            <p align="center">
-              <h1 align="center">
-                Reservoir Computing Arxiv Daily
-              </h1>
-            </p>
+<p align="center">
+  <h1 align="center">
+    Reservoir Computing Arxiv Daily
+  </h1>
+</p>
 
-            This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
-            including Echo State Networks (ESN) and Liquid State Machine (LSM).
-            '''
+This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
+including Echo State Networks (ESN) and Liquid State Machine (LSM).
+'''
             f.write(content)
 
             f.write("## Updated on " + DateNow + "\n")
