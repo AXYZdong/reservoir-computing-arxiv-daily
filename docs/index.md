@@ -7,7 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.11
+
+            <p align="center">
+              <h1 align="center">
+                Reservoir Computing Arxiv Daily
+              </h1>
+            </p>
+
+            This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
+            including Echo State Networks (ESN) and Liquid State Machine (LSM).
+            ## Updated on 2025.09.13
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +29,7 @@ layout: default
 |**2025-09-01**|**Optimal information injection and transfer mechanisms for active matter reservoir computing**|Mario U. Gaimann et.al.|[2509.01799](http://arxiv.org/abs/2509.01799)|null|
 |**2025-08-31**|**Speech Command Recognition Using LogNNet Reservoir Computing for Embedded Systems**|Yuriy Izotov et.al.|[2509.00862](http://arxiv.org/abs/2509.00862)|null|
 |**2025-08-31**|**Designing learning in high dimensional oscillator networks with low dimensional read-out**|Thomas Geert de Jong et.al.|[2509.00848](http://arxiv.org/abs/2509.00848)|null|
-|**2025-09-01**|**Generic and Isometric Embeddings in Reservoir Computers**|Allen G Hart et.al.|[2508.21522](http://arxiv.org/abs/2508.21522)|null|
+|**2025-09-11**|**Generic and Isometric Embeddings in Reservoir Computers**|Allen G Hart et.al.|[2508.21522](http://arxiv.org/abs/2508.21522)|null|
 |**2025-08-29**|**Benchmarking the State of Networks with a Low-Cost Method Based on Reservoir Computing**|Felix Simon Reimers et.al.|[2508.21420](http://arxiv.org/abs/2508.21420)|null|
 |**2025-08-28**|**Deep Residual Echo State Networks: exploring residual orthogonal connections in untrained Recurrent Neural Networks**|Matteo Pinna et.al.|[2508.21172](http://arxiv.org/abs/2508.21172)|null|
 |**2025-08-27**|**Microscale optoelectronic reservoir networks of halide perovskite for in-sensor computing**|Jeroen J. de Boer et.al.|[2508.19916](http://arxiv.org/abs/2508.19916)|null|
