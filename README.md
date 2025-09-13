@@ -3,7 +3,16 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.11
+
+            <p align="center">
+              <h1 align="center">
+                Reservoir Computing Arxiv Daily
+              </h1>
+            </p>
+
+            This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
+            including Echo State Networks (ESN) and Liquid State Machine (LSM).
+            ## Updated on 2025.09.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +34,7 @@
 |**2025-09-01**|**Optimal information injection and transfer mechanisms for active matter reservoir computing**|Mario U. Gaimann et.al.|[2509.01799](http://arxiv.org/abs/2509.01799)|null|
 |**2025-08-31**|**Speech Command Recognition Using LogNNet Reservoir Computing for Embedded Systems**|Yuriy Izotov et.al.|[2509.00862](http://arxiv.org/abs/2509.00862)|null|
 |**2025-08-31**|**Designing learning in high dimensional oscillator networks with low dimensional read-out**|Thomas Geert de Jong et.al.|[2509.00848](http://arxiv.org/abs/2509.00848)|null|
-|**2025-09-01**|**Generic and Isometric Embeddings in Reservoir Computers**|Allen G Hart et.al.|[2508.21522](http://arxiv.org/abs/2508.21522)|null|
+|**2025-09-11**|**Generic and Isometric Embeddings in Reservoir Computers**|Allen G Hart et.al.|[2508.21522](http://arxiv.org/abs/2508.21522)|null|
 |**2025-08-29**|**Benchmarking the State of Networks with a Low-Cost Method Based on Reservoir Computing**|Felix Simon Reimers et.al.|[2508.21420](http://arxiv.org/abs/2508.21420)|null|
 |**2025-08-28**|**Deep Residual Echo State Networks: exploring residual orthogonal connections in untrained Recurrent Neural Networks**|Matteo Pinna et.al.|[2508.21172](http://arxiv.org/abs/2508.21172)|null|
 |**2025-08-27**|**Microscale optoelectronic reservoir networks of halide perovskite for in-sensor computing**|Jeroen J. de Boer et.al.|[2508.19916](http://arxiv.org/abs/2508.19916)|null|
@@ -95,7 +104,7 @@
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
 
 ## ESN
 
@@ -162,7 +171,7 @@
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
 
 ## LSM
 
@@ -205,7 +214,7 @@
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
