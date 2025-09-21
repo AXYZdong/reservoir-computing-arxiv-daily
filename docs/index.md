@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.09.16
+## Updated on 2025.09.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**On the model attractor in a high-dimensional neural network dynamics of reservoir computing**|Miki U. Kobayashi et.al.|[2509.12733](http://arxiv.org/abs/2509.12733)|null|
+|**2025-09-15**|**Quantum reservoir computing for predicting and characterizing chaotic maps**|Qingyu Li et.al.|[2509.12071](http://arxiv.org/abs/2509.12071)|null|
+|**2025-09-15**|**Neuromorphic Photonic Circuits with Nonlinear Dynamics and Memory for Time Sequence Classification**|Alessandro Foradori et.al.|[2509.11721](http://arxiv.org/abs/2509.11721)|null|
+|**2025-09-14**|**Next-Generation Reservoir Computing for Dynamical Inference**|Rok Cestnik et.al.|[2509.11338](http://arxiv.org/abs/2509.11338)|null|
 |**2025-09-09**|**Quantum Transport Reservoir Computing**|Yecheng Jing et.al.|[2509.07778](http://arxiv.org/abs/2509.07778)|null|
 |**2025-09-04**|**Echo State Networks as State-Space Models: A Systems Perspective**|Pradeep Singh et.al.|[2509.04422](http://arxiv.org/abs/2509.04422)|null|
 |**2025-09-04**|**Forecasting Low-Dimensional Turbulence via Multi-Dimensional Hybrid Quantum Reservoir Computing**|L. Salatino et.al.|[2509.04006](http://arxiv.org/abs/2509.04006)|null|
