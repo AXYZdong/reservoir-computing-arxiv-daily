@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.09.22
+## Updated on 2025.09.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**CMOS Implementation of Field Programmable Spiking Neural Network for Hardware Reservoir Computing**|Ckristian Duran et.al.|[2509.17355](http://arxiv.org/abs/2509.17355)|null|
+|**2025-09-22**|**Pose Estimation of a Cable-Driven Serpentine Manipulator Utilizing Intrinsic Dynamics via Physical Reservoir Computing**|Kazutoshi Tanaka et.al.|[2509.17308](http://arxiv.org/abs/2509.17308)|null|
+|**2025-09-23**|**Digit classification using photonic reservoir computing based on a silicon microring resonator**|Andrey A. Nikitin et.al.|[2509.16161](http://arxiv.org/abs/2509.16161)|null|
 |**2025-09-16**|**On the model attractor in a high-dimensional neural network dynamics of reservoir computing**|Miki U. Kobayashi et.al.|[2509.12733](http://arxiv.org/abs/2509.12733)|null|
 |**2025-09-15**|**Quantum reservoir computing for predicting and characterizing chaotic maps**|Qingyu Li et.al.|[2509.12071](http://arxiv.org/abs/2509.12071)|null|
 |**2025-09-15**|**Neuromorphic Photonic Circuits with Nonlinear Dynamics and Memory for Time Sequence Classification**|Alessandro Foradori et.al.|[2509.11721](http://arxiv.org/abs/2509.11721)|null|
