@@ -16,11 +16,16 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.10.01
+## Updated on 2025.10.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**From quantum feature maps to quantum reservoir computing: perspectives and applications**|Casper Gyurik et.al.|[2510.01797](http://arxiv.org/abs/2510.01797)|null|
+|**2025-09-30**|**Quantum reservoir computing using Jaynes-Cummings model**|Sreetama Das et.al.|[2510.00171](http://arxiv.org/abs/2510.00171)|null|
+|**2025-09-30**|**Can LLMs Write Mathematics Papers? A Case Study in Reservoir Computing**|Allen G Hart et.al.|[2509.26550](http://arxiv.org/abs/2509.26550)|null|
+|**2025-09-30**|**Reservoir computing based predictive reduced order model for steel grade intermixing in an industrial continuous casting tundish**|Harshith Gowrachari et.al.|[2509.26293](http://arxiv.org/abs/2509.26293)|null|
+|**2025-09-30**|**Unsupervised Detection of Topological Phase Transitions with a Quantum Reservoir**|Li Xin et.al.|[2509.25825](http://arxiv.org/abs/2509.25825)|null|
 |**2025-09-28**|**Echo Flow Networks**|Hongbo Liu et.al.|[2509.24122](http://arxiv.org/abs/2509.24122)|null|
 |**2025-09-28**|**ResFormer: All-Time Reservoir Memory for Long Sequence Classification**|Hongbo Liu et.al.|[2509.24074](http://arxiv.org/abs/2509.24074)|null|
 |**2025-09-27**|**Optimizing the Network Topology of a Linear Reservoir Computer**|Sahand Tangerami et.al.|[2509.23391](http://arxiv.org/abs/2509.23391)|null|
@@ -183,7 +188,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-09-09**|**Word2Spike: Poisson Rate Coding for Associative Memories and Neuromorphic Algorithms**|Archit Kalra et.al.|[2509.07361](http://arxiv.org/abs/2509.07361)|null|
 |**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
 |**2025-03-09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|Christopher S. Yang et.al.|[2503.06798](http://arxiv.org/abs/2503.06798)|null|
-|**2025-01-29**|**A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity**|Ria Talukder et.al.|[2411.19209](http://arxiv.org/abs/2411.19209)|null|
+|**2025-10-02**|**A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity**|Ria Talukder et.al.|[2411.19209](http://arxiv.org/abs/2411.19209)|null|
 |**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414](http://arxiv.org/abs/2411.11414)|null|
 |**2024-07-30**|**Exploring Liquid Neural Networks on Loihi-2**|Wiktoria Agata Pawlak et.al.|[2407.20590](http://arxiv.org/abs/2407.20590)|null|
 |**2025-01-10**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
