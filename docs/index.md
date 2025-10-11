@@ -16,11 +16,17 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.10.06
+## Updated on 2025.10.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**Bayesian Optimization of Multi-Bit Pulse Encoding in In2O3/Al2O3 Thin-film Transistors for Temporal Data Processing**|Javier Meza-Arroyo et.al.|[2510.07421](http://arxiv.org/abs/2510.07421)|null|
+|**2025-10-07**|**Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection**|Xiao Jin et.al.|[2510.07348](http://arxiv.org/abs/2510.07348)|null|
+|**2025-10-07**|**Predicting the future with magnons**|Zeling Xiong et.al.|[2510.06382](http://arxiv.org/abs/2510.06382)|null|
+|**2025-10-07**|**From Neural Activity to Computation: Biological Reservoirs for Pattern Recognition in Digit Classification**|Ludovico Iannello et.al.|[2510.05637](http://arxiv.org/abs/2510.05637)|null|
+|**2025-10-06**|**ResCP: Reservoir Conformal Prediction for Time Series Forecasting**|Roberto Neglia et.al.|[2510.05060](http://arxiv.org/abs/2510.05060)|null|
+|**2025-10-06**|**Quantum Reservoir Computing for Credit Card Default Prediction on a Neutral Atom Platform**|Giacomo Vitali et.al.|[2510.04747](http://arxiv.org/abs/2510.04747)|null|
 |**2025-10-02**|**From quantum feature maps to quantum reservoir computing: perspectives and applications**|Casper Gyurik et.al.|[2510.01797](http://arxiv.org/abs/2510.01797)|null|
 |**2025-09-30**|**Quantum reservoir computing using Jaynes-Cummings model**|Sreetama Das et.al.|[2510.00171](http://arxiv.org/abs/2510.00171)|null|
 |**2025-09-30**|**Can LLMs Write Mathematics Papers? A Case Study in Reservoir Computing**|Allen G Hart et.al.|[2509.26550](http://arxiv.org/abs/2509.26550)|null|
