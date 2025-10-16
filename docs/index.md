@@ -16,11 +16,12 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.10.13
+## Updated on 2025.10.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Cross-Scale Reservoir Computing for large spatio-temporal forecasting and modeling**|Nicola Alboré et.al.|[2510.11209](http://arxiv.org/abs/2510.11209)|null|
 |**2025-10-08**|**Bayesian Optimization of Multi-Bit Pulse Encoding in In2O3/Al2O3 Thin-film Transistors for Temporal Data Processing**|Javier Meza-Arroyo et.al.|[2510.07421](http://arxiv.org/abs/2510.07421)|null|
 |**2025-10-07**|**Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection**|Xiao Jin et.al.|[2510.07348](http://arxiv.org/abs/2510.07348)|null|
 |**2025-10-07**|**Predicting the future with magnons**|Zeling Xiong et.al.|[2510.06382](http://arxiv.org/abs/2510.06382)|null|
