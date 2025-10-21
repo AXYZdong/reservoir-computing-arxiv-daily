@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.10.16
+## Updated on 2025.10.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing**|Hayato Nihei et.al.|[2510.14287](http://arxiv.org/abs/2510.14287)|null|
+|**2025-10-15**|**Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware**|Wissal Hamhoum et.al.|[2510.13634](http://arxiv.org/abs/2510.13634)|null|
+|**2025-10-15**|**Towards Quantum Enhanced Adversarial Robustness with Rydberg Reservoir Learnin**|Shehbaz Tariq et.al.|[2510.13473](http://arxiv.org/abs/2510.13473)|null|
+|**2025-10-15**|**Dynamics of reservoir computing for crises prediction**|Dishant Sisodia et.al.|[2510.13246](http://arxiv.org/abs/2510.13246)|null|
 |**2025-10-13**|**Cross-Scale Reservoir Computing for large spatio-temporal forecasting and modeling**|Nicola Alboré et.al.|[2510.11209](http://arxiv.org/abs/2510.11209)|null|
 |**2025-10-08**|**Bayesian Optimization of Multi-Bit Pulse Encoding in In2O3/Al2O3 Thin-film Transistors for Temporal Data Processing**|Javier Meza-Arroyo et.al.|[2510.07421](http://arxiv.org/abs/2510.07421)|null|
 |**2025-10-07**|**Bioinspired Tapered-Spring Turbulence Sensor for Underwater Flow Detection**|Xiao Jin et.al.|[2510.07348](http://arxiv.org/abs/2510.07348)|null|
