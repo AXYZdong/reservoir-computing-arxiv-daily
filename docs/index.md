@@ -16,14 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.10.31
+## Updated on 2025.11.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-27**|**Sustainable NARMA-10 Benchmarking for Quantum Reservoir Computing**|Avyay Kodali et.al.|[2510.25183](http://arxiv.org/abs/2510.25183)|null|
 |**2025-10-28**|**Embodying Physical Computing into Soft Robots**|Jun Wang et.al.|[2510.24692](http://arxiv.org/abs/2510.24692)|null|
-|**2025-10-28**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[2510.24519](http://arxiv.org/abs/2510.24519)|null|
+|**2025-10-30**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[2510.24519](http://arxiv.org/abs/2510.24519)|null|
 |**2025-10-22**|**Optimal quantum learning in proximity to universality**|Moein N. Ivaki et.al.|[2510.18623](http://arxiv.org/abs/2510.18623)|null|
 |**2025-10-20**|**Technical Review of spin-based computing**|Hidekazu Kurebayashi et.al.|[2510.17653](http://arxiv.org/abs/2510.17653)|null|
 |**2025-10-16**|**Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing**|Hayato Nihei et.al.|[2510.14287](http://arxiv.org/abs/2510.14287)|null|
