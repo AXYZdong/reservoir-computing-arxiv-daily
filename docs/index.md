@@ -16,7 +16,7 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.11.03
+## Updated on 2025.11.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -134,6 +134,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Generalization in Representation Models via Random Matrix Theory: Application to Recurrent Networks**|Yessin Moakher et.al.|[2511.02401](http://arxiv.org/abs/2511.02401)|null|
+|**2025-11-03**|**HFNO: an interpretable data-driven decomposition strategy for turbulent flows**|Marco Cayuela et.al.|[2511.01535](http://arxiv.org/abs/2511.01535)|null|
 |**2025-10-27**|**Sustainable NARMA-10 Benchmarking for Quantum Reservoir Computing**|Avyay Kodali et.al.|[2510.25183](http://arxiv.org/abs/2510.25183)|null|
 |**2025-10-27**|**Modeling Biological Multifunctionality with Echo State Networks**|Anastasia-Maria Leventi-Peetz et.al.|[2510.23940](http://arxiv.org/abs/2510.23940)|null|
 |**2025-09-28**|**Echo Flow Networks**|Hongbo Liu et.al.|[2509.24122](http://arxiv.org/abs/2509.24122)|null|
