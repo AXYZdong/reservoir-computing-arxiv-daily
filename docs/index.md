@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Spin-Network Quantum Reservoir Computing with Distributed Inputs: The Role of Entanglement**|Sareh Askari et.al.|[2511.04900](http://arxiv.org/abs/2511.04900)|null|
+|**2025-11-04**|**A Novel Reservoir Computing Framework for Chaotic Time Series Prediction Using Time Delay Embedding and Random Fourier Features**|S. K. Laha et.al.|[2511.02877](http://arxiv.org/abs/2511.02877)|null|
 |**2025-10-27**|**Sustainable NARMA-10 Benchmarking for Quantum Reservoir Computing**|Avyay Kodali et.al.|[2510.25183](http://arxiv.org/abs/2510.25183)|null|
 |**2025-10-28**|**Embodying Physical Computing into Soft Robots**|Jun Wang et.al.|[2510.24692](http://arxiv.org/abs/2510.24692)|null|
 |**2025-10-30**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[2510.24519](http://arxiv.org/abs/2510.24519)|null|
