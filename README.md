@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.11.17
+## Updated on 2025.11.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Demon with dementia - the deterioration of information transcription**|Maggie Williams et.al.|[2511.15691](http://arxiv.org/abs/2511.15691)|null|
+|**2025-11-19**|**Excess of diffuse gamma-ray emission detected from the galaxy cluster Abell 119 from 14-year Fermi-LAT Data**|Gajanan D Harale et.al.|[2511.15559](http://arxiv.org/abs/2511.15559)|null|
+|**2025-11-19**|**Solar Periodic Companion and Random Stellar Flybys: Dynamical Perturbations of Highly Eccentric Comets in the Oort Cloud**|Shahed Shayan Arani et.al.|[2511.15121](http://arxiv.org/abs/2511.15121)|null|
+|**2025-11-18**|**Observation of critical scaling in the Bose gas universality class**|Leon Kleebank et.al.|[2511.14754](http://arxiv.org/abs/2511.14754)|null|
+|**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
+|**2025-11-17**|**FLOWER: Flow-Oriented Entity-Relationship Tool**|Dmitry Moskalev et.al.|[2511.13357](http://arxiv.org/abs/2511.13357)|null|
+|**2025-11-16**|**Dissipative Dynamics of Charged Graphene Quantum Batteries**|Disha Verma et.al.|[2511.12666](http://arxiv.org/abs/2511.12666)|null|
 |**2025-11-13**|**Emergent spin order and steady-state superradiance in one-dimensional baths**|Silvia Cardenas-Lopez et.al.|[2511.10638](http://arxiv.org/abs/2511.10638)|null|
 |**2025-11-12**|**Hybrid Photonic-Quantum Reservoir Computing For Time-Series Prediction**|Oishik Kar et.al.|[2511.09218](http://arxiv.org/abs/2511.09218)|null|
 |**2025-11-11**|**Reservoir Computing-Based Detection for Molecular Communications**|Abdulkadir Bilge et.al.|[2511.08762](http://arxiv.org/abs/2511.08762)|null|
@@ -146,17 +153,18 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
 |**2025-11-04**|**Generalization in Representation Models via Random Matrix Theory: Application to Recurrent Networks**|Yessin Moakher et.al.|[2511.02401](http://arxiv.org/abs/2511.02401)|null|
 |**2025-11-03**|**HFNO: an interpretable data-driven decomposition strategy for turbulent flows**|Marco Cayuela et.al.|[2511.01535](http://arxiv.org/abs/2511.01535)|null|
 |**2025-10-27**|**Sustainable NARMA-10 Benchmarking for Quantum Reservoir Computing**|Avyay Kodali et.al.|[2510.25183](http://arxiv.org/abs/2510.25183)|null|
 |**2025-10-27**|**Modeling Biological Multifunctionality with Echo State Networks**|Anastasia-Maria Leventi-Peetz et.al.|[2510.23940](http://arxiv.org/abs/2510.23940)|null|
-|**2025-09-28**|**Echo Flow Networks**|Hongbo Liu et.al.|[2509.24122](http://arxiv.org/abs/2509.24122)|null|
+|**2025-11-15**|**Echo Flow Networks**|Hongbo Liu et.al.|[2509.24122](http://arxiv.org/abs/2509.24122)|null|
 |**2025-09-26**|**A Random Matrix Perspective of Echo State Networks: From Precise Bias--Variance Characterization to Optimal Regularization**|Yessin Moakher et.al.|[2509.22011](http://arxiv.org/abs/2509.22011)|null|
 |**2025-09-18**|**Integrated Sensing and Communication for Vehicular Networks: A Rate-Distortion Fundamental Limits of State Estimator**|Lugaoze Feng et.al.|[2509.15025](http://arxiv.org/abs/2509.15025)|null|
 |**2025-09-04**|**Echo State Networks as State-Space Models: A Systems Perspective**|Pradeep Singh et.al.|[2509.04422](http://arxiv.org/abs/2509.04422)|null|
@@ -220,17 +228,18 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## LSM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-16**|**An Active Learning Interatomic Potential For Defect-Engineered CoCrFeMnNi High-Entropy Alloy**|Manish Sahoo et.al.|[2511.12514](http://arxiv.org/abs/2511.12514)|null|
 |**2025-11-03**|**An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications**|Mei-Chin Pang et.al.|[2511.01745](http://arxiv.org/abs/2511.01745)|null|
 |**2025-09-23**|**A sterile-neutrino search using data from the MicroBooNE liquid-argon time projection chamber performed in an undergraduate teaching laboratory**|John Waiton et.al.|[2509.18859](http://arxiv.org/abs/2509.18859)|null|
 |**2025-09-22**|**The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces**|Sushree Jagriti Sahoo et.al.|[2509.17862](http://arxiv.org/abs/2509.17862)|null|
 |**2025-09-29**|**White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials**|Xu Han et.al.|[2509.14518](http://arxiv.org/abs/2509.14518)|null|
-|**2025-09-14**|**A Machine Learning Closure for Polymer Integral Equation Theory**|Zhihao Feng et.al.|[2509.11030](http://arxiv.org/abs/2509.11030)|null|
+|**2025-11-17**|**A Machine Learning Closure for Polymer Integral Equation Theory**|Zhihao Feng et.al.|[2509.11030](http://arxiv.org/abs/2509.11030)|null|
 |**2025-09-09**|**Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide**|Harender S. Dhattarwal et.al.|[2509.08143](http://arxiv.org/abs/2509.08143)|null|
 |**2025-09-09**|**Word2Spike: Poisson Rate Coding for Associative Memories and Neuromorphic Algorithms**|Archit Kalra et.al.|[2509.07361](http://arxiv.org/abs/2509.07361)|null|
 |**2025-10-13**|**A Machine Learning-Fueled Modelfluid for Flowsheet Optimization**|Martin Bubel et.al.|[2509.02242](http://arxiv.org/abs/2509.02242)|null|
@@ -272,7 +281,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
