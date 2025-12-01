@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.11.26
+## Updated on 2025.12.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,10 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Reservoir-Engineered Exceptional Points for Quantum Energy Storage**|Borhan Ahmadi et.al.|[2511.20569](http://arxiv.org/abs/2511.20569)|null|
+|**2025-11-25**|**Resistive switching and long-range filaments in metal/DMSO liquid systems for three-dimensional, multi-terminal connection schemes with on demand dynamic reconfigurability**|Roshani Madurawala et.al.|[2511.20314](http://arxiv.org/abs/2511.20314)|null|
+|**2025-11-24**|**Entropy Flow and Exceptional-Point Structure in Two-Mode Squeezed-Bath Dynamics**|Eric R. Bittner et.al.|[2511.19662](http://arxiv.org/abs/2511.19662)|null|
+|**2025-11-24**|**Metal-loaded outflows in sub-Milky Way galaxies in the CIELO simulations**|Valentina P. Miranda et.al.|[2511.19630](http://arxiv.org/abs/2511.19630)|null|
 |**2025-11-24**|**The dawn is quiet II: Gaia XP constraints on the Milky Way's proto-Galaxy from very metal-poor MDF tails**|Boquan Chen et.al.|[2511.18901](http://arxiv.org/abs/2511.18901)|null|
 |**2025-11-22**|**Measuring fluxes between wave and geostrophic features in rotating non-hydrostatic flows with variable stratification**|Jeffrey J. Early et.al.|[2511.18161](http://arxiv.org/abs/2511.18161)|null|
 |**2025-11-21**|**Illuminating the Black Box of Reservoir Computing**|Claus Metzner et.al.|[2511.17003](http://arxiv.org/abs/2511.17003)|null|
@@ -157,7 +161,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## ESN
 
@@ -232,13 +236,15 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## LSM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|null|
+|**2025-11-26**|**Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations**|Manuel Grumet et.al.|[2511.21404](http://arxiv.org/abs/2511.21404)|null|
+|**2025-11-25**|**Hardware Acceleration of Frustrated Lattice Systems using Convolutional Restricted Boltzmann Machine**|Pratik Brahma et.al.|[2511.20911](http://arxiv.org/abs/2511.20911)|null|
+|**2025-11-25**|**Cloud4D: Estimating Cloud Properties at a High Spatial and Temporal Resolution**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|null|
 |**2025-11-16**|**An Active Learning Interatomic Potential For Defect-Engineered CoCrFeMnNi High-Entropy Alloy**|Manish Sahoo et.al.|[2511.12514](http://arxiv.org/abs/2511.12514)|null|
 |**2025-11-03**|**An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications**|Mei-Chin Pang et.al.|[2511.01745](http://arxiv.org/abs/2511.01745)|null|
 |**2025-09-23**|**A sterile-neutrino search using data from the MicroBooNE liquid-argon time projection chamber performed in an undergraduate teaching laboratory**|John Waiton et.al.|[2509.18859](http://arxiv.org/abs/2509.18859)|null|
@@ -286,7 +292,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
