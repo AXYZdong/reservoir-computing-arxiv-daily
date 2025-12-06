@@ -16,11 +16,21 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.12.01
+## Updated on 2025.12.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations**|Xiang Rao et.al.|[2512.03923](http://arxiv.org/abs/2512.03923)|null|
+|**2025-12-02**|**Interferometric Detection and Orbit Modeling of the Subcomponent in the Hot-dust System $κ$ Tuc A: A Low-mass Star on an Eccentric Orbit in a Hierarchical-quintuple System**|T. A. Stuber et.al.|[2512.03209](http://arxiv.org/abs/2512.03209)|null|
+|**2025-12-02**|**Time-series forecasting with multiphoton quantum states and integrated photonics**|Rosario Di Bartolo et.al.|[2512.02928](http://arxiv.org/abs/2512.02928)|null|
+|**2025-12-02**|**How much gas and dust is in the $z=5.7$ Lyman Break Galaxy HZ10? An ALMA Band 10 to 4 and JWST/NIRSpec study of its interstellar medium**|H. S. B. Algera et.al.|[2512.02320](http://arxiv.org/abs/2512.02320)|null|
+|**2025-11-30**|**The Coupling Strength Is a Scale Parameter in Threshold Power-Law Reservoirs and Does Not Influence Training Accuracy**|Wilten Nicola et.al.|[2512.01006](http://arxiv.org/abs/2512.01006)|null|
+|**2025-11-30**|**Opportunities and Challenges for Data Quality in the Era of Quantum Computing**|Sven Groppe et.al.|[2512.00870](http://arxiv.org/abs/2512.00870)|null|
+|**2025-11-30**|**Tidal disruption and evaporation of rubble-pile and monolithic bodies as a source of flaring activity in Sgr A^\star$**|Wen-Han Zhou et.al.|[2512.00808](http://arxiv.org/abs/2512.00808)|null|
+|**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
+|**2025-11-30**|**FlexiWalker: Extensible GPU Framework for Efficient Dynamic Random Walks with Runtime Adaptation**|Seongyeon Park et.al.|[2512.00705](http://arxiv.org/abs/2512.00705)|null|
+|**2025-11-28**|**Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing**|Eduardo Sergio Oliveros-Mata et.al.|[2511.23215](http://arxiv.org/abs/2511.23215)|null|
 |**2025-11-25**|**Reservoir-Engineered Exceptional Points for Quantum Energy Storage**|Borhan Ahmadi et.al.|[2511.20569](http://arxiv.org/abs/2511.20569)|null|
 |**2025-11-25**|**Resistive switching and long-range filaments in metal/DMSO liquid systems for three-dimensional, multi-terminal connection schemes with on demand dynamic reconfigurability**|Roshani Madurawala et.al.|[2511.20314](http://arxiv.org/abs/2511.20314)|null|
 |**2025-11-24**|**Entropy Flow and Exceptional-Point Structure in Two-Mode Squeezed-Bath Dynamics**|Eric R. Bittner et.al.|[2511.19662](http://arxiv.org/abs/2511.19662)|null|
@@ -160,6 +170,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
 |**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
 |**2025-11-04**|**Generalization in Representation Models via Random Matrix Theory: Application to Recurrent Networks**|Yessin Moakher et.al.|[2511.02401](http://arxiv.org/abs/2511.02401)|null|
 |**2025-11-03**|**HFNO: an interpretable data-driven decomposition strategy for turbulent flows**|Marco Cayuela et.al.|[2511.01535](http://arxiv.org/abs/2511.01535)|null|
@@ -233,6 +244,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
+|**2025-11-29**|**Dressing composite fermions with artificial intelligence**|Mytraya Gattu et.al.|[2512.00527](http://arxiv.org/abs/2512.00527)|null|
 |**2025-11-26**|**Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations**|Manuel Grumet et.al.|[2511.21404](http://arxiv.org/abs/2511.21404)|null|
 |**2025-11-25**|**Hardware Acceleration of Frustrated Lattice Systems using Convolutional Restricted Boltzmann Machine**|Pratik Brahma et.al.|[2511.20911](http://arxiv.org/abs/2511.20911)|null|
 |**2025-11-25**|**Cloud4D: Estimating Cloud Properties at a High Spatial and Temporal Resolution**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|null|
