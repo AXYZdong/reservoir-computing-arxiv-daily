@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.12.08
+## Updated on 2025.12.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Photonic Quantum-Accelerated Machine Learning**|Markus Rambach et.al.|[2512.08318](http://arxiv.org/abs/2512.08318)|null|
+|**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-12-03**|**Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations**|Xiang Rao et.al.|[2512.03923](http://arxiv.org/abs/2512.03923)|null|
 |**2025-12-02**|**Interferometric Detection and Orbit Modeling of the Subcomponent in the Hot-dust System $κ$ Tuc A: A Low-mass Star on an Eccentric Orbit in a Hierarchical-quintuple System**|T. A. Stuber et.al.|[2512.03209](http://arxiv.org/abs/2512.03209)|null|
 |**2025-12-02**|**Time-series forecasting with multiphoton quantum states and integrated photonics**|Rosario Di Bartolo et.al.|[2512.02928](http://arxiv.org/abs/2512.02928)|null|
@@ -36,6 +38,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
 |**2025-11-30**|**FlexiWalker: Extensible GPU Framework for Efficient Dynamic Random Walks with Runtime Adaptation**|Seongyeon Park et.al.|[2512.00705](http://arxiv.org/abs/2512.00705)|null|
 |**2025-11-28**|**Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing**|Eduardo Sergio Oliveros-Mata et.al.|[2511.23215](http://arxiv.org/abs/2511.23215)|null|
+|**2025-11-28**|**Reservoir neuromorphic computing based on spin-orbit coupling in an organic crystal resonator**|Teng Long et.al.|[2511.23155](http://arxiv.org/abs/2511.23155)|null|
+|**2025-11-27**|**Prediction performance of random reservoirs with different topology for nonlinear dynamical systems with different number of degrees of freedom**|Shailendra K. Rathor et.al.|[2511.22059](http://arxiv.org/abs/2511.22059)|null|
 |**2025-11-25**|**Reservoir-Engineered Exceptional Points for Quantum Energy Storage**|Borhan Ahmadi et.al.|[2511.20569](http://arxiv.org/abs/2511.20569)|null|
 |**2025-11-25**|**Resistive switching and long-range filaments in metal/DMSO liquid systems for three-dimensional, multi-terminal connection schemes with on demand dynamic reconfigurability**|Roshani Madurawala et.al.|[2511.20314](http://arxiv.org/abs/2511.20314)|null|
 |**2025-11-24**|**Entropy Flow and Exceptional-Point Structure in Two-Mode Squeezed-Bath Dynamics**|Eric R. Bittner et.al.|[2511.19662](http://arxiv.org/abs/2511.19662)|null|
@@ -171,12 +175,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
 |**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
 |**2025-11-04**|**Generalization in Representation Models via Random Matrix Theory: Application to Recurrent Networks**|Yessin Moakher et.al.|[2511.02401](http://arxiv.org/abs/2511.02401)|null|
@@ -247,7 +252,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## LSM
 
@@ -305,7 +310,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
