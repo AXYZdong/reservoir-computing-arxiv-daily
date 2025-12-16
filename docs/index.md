@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Deep Photonic Reservoir Computing with On-chip Nonlinearity**|Jinlong Xiang et.al.|[2512.10626](http://arxiv.org/abs/2512.10626)|null|
+|**2025-12-09**|**Enhanced Squeezing and Faster Metrology from Layered Quantum Neural Networks**|Nickholas Gutierrez et.al.|[2512.09137](http://arxiv.org/abs/2512.09137)|null|
+|**2025-11-28**|**Multivariate time series prediction using clustered echo state network**|S. Hariharan et.al.|[2512.08963](http://arxiv.org/abs/2512.08963)|null|
 |**2025-12-09**|**Photonic Quantum-Accelerated Machine Learning**|Markus Rambach et.al.|[2512.08318](http://arxiv.org/abs/2512.08318)|null|
 |**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-12-03**|**Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations**|Xiang Rao et.al.|[2512.03923](http://arxiv.org/abs/2512.03923)|null|
@@ -174,6 +177,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Multivariate time series prediction using clustered echo state network**|S. Hariharan et.al.|[2512.08963](http://arxiv.org/abs/2512.08963)|null|
 |**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
 |**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
