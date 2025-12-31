@@ -16,11 +16,12 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Reservoir Computing inspired Matrix Multiplication-free Language Model**|Takumi Shiratsuchi et.al.|[2512.23145](http://arxiv.org/abs/2512.23145)|null|
 |**2025-12-22**|**Sign Language Recognition using Parallel Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.19451](http://arxiv.org/abs/2512.19451)|null|
 |**2025-12-22**|**Symplectic Reservoir Representation of Legendre Dynamics**|Robert Simon Fong et.al.|[2512.19409](http://arxiv.org/abs/2512.19409)|null|
 |**2025-12-21**|**Image Denoising via Quantum Reservoir Computing**|Soumyadip Das et.al.|[2512.18612](http://arxiv.org/abs/2512.18612)|null|
@@ -190,7 +191,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-11-28**|**Multivariate time series prediction using clustered echo state network**|S. Hariharan et.al.|[2512.08963](http://arxiv.org/abs/2512.08963)|null|
 |**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
-|**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
+|**2025-12-26**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
 |**2025-11-04**|**Generalization in Representation Models via Random Matrix Theory: Application to Recurrent Networks**|Yessin Moakher et.al.|[2511.02401](http://arxiv.org/abs/2511.02401)|null|
 |**2025-11-03**|**HFNO: an interpretable data-driven decomposition strategy for turbulent flows**|Marco Cayuela et.al.|[2511.01535](http://arxiv.org/abs/2511.01535)|null|
 |**2025-10-27**|**Sustainable NARMA-10 Benchmarking for Quantum Reservoir Computing**|Avyay Kodali et.al.|[2510.25183](http://arxiv.org/abs/2510.25183)|null|
