@@ -16,11 +16,12 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting**|Ata Akbari Asanjan et.al.|[2601.00172](http://arxiv.org/abs/2601.00172)|null|
 |**2025-12-29**|**Reservoir Computing inspired Matrix Multiplication-free Language Model**|Takumi Shiratsuchi et.al.|[2512.23145](http://arxiv.org/abs/2512.23145)|null|
 |**2025-12-22**|**Sign Language Recognition using Parallel Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.19451](http://arxiv.org/abs/2512.19451)|null|
 |**2025-12-22**|**Symplectic Reservoir Representation of Legendre Dynamics**|Robert Simon Fong et.al.|[2512.19409](http://arxiv.org/abs/2512.19409)|null|
