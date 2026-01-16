@@ -16,15 +16,17 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.01.12
+## Updated on 2026.01.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Innovation Capacity of Dynamical Learning Systems**|Anthony M. Polloreno et.al.|[2601.07257](http://arxiv.org/abs/2601.07257)|null|
+|**2026-01-09**|**Reservoir computing from collective dynamics of active colloidal oscillators**|Veit-Lorenz Heuthe et.al.|[2601.05767](http://arxiv.org/abs/2601.05767)|null|
 |**2026-01-08**|**Quantum Wiener architecture for quantum reservoir computing**|Alessio Benavoli et.al.|[2601.04812](http://arxiv.org/abs/2601.04812)|null|
 |**2026-01-07**|**Magneto-mechanical reservoir computing combining a two-dimensional network of nonlinear mass-spring resonators with magnetic tunnel junctions**|Andrea Grimaldi et.al.|[2601.03996](http://arxiv.org/abs/2601.03996)|null|
 |**2026-01-07**|**Spider web-inspired sensing and computation with fiber network physical reservoirs**|Apoorva Khairnar et.al.|[2601.03536](http://arxiv.org/abs/2601.03536)|null|
-|**2026-01-06**|**Coupled Microelectromechanical Drum Resonators for Reservoir Computing via Sideband Pumped Phonon-Cavity Dynamics**|Theresa Farah et.al.|[2601.02617](http://arxiv.org/abs/2601.02617)|null|
+|**2026-01-14**|**Coupled Microelectromechanical Drum Resonators for Reservoir Computing via Sideband Pumped Phonon-Cavity Dynamics**|Theresa Farah et.al.|[2601.02617](http://arxiv.org/abs/2601.02617)|null|
 |**2026-01-05**|**Quantum Extreme Reservoir Computing for Phase Classification of Polymer Alloy Microstructures**|Arisa Ikeda et.al.|[2601.02150](http://arxiv.org/abs/2601.02150)|null|
 |**2026-01-05**|**Toward Thermodynamic Reservoir Computing: Exploring SHA-256 ASICs as Potential Physical Substrates**|Francisco Angulo de Lafuente et.al.|[2601.01916](http://arxiv.org/abs/2601.01916)|null|
 |**2026-01-01**|**Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting**|Ata Akbari Asanjan et.al.|[2601.00172](http://arxiv.org/abs/2601.00172)|null|

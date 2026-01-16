@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.01.12
+## Updated on 2026.01.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,10 +26,12 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**Innovation Capacity of Dynamical Learning Systems**|Anthony M. Polloreno et.al.|[2601.07257](http://arxiv.org/abs/2601.07257)|null|
+|**2026-01-09**|**Reservoir computing from collective dynamics of active colloidal oscillators**|Veit-Lorenz Heuthe et.al.|[2601.05767](http://arxiv.org/abs/2601.05767)|null|
 |**2026-01-08**|**Quantum Wiener architecture for quantum reservoir computing**|Alessio Benavoli et.al.|[2601.04812](http://arxiv.org/abs/2601.04812)|null|
 |**2026-01-07**|**Magneto-mechanical reservoir computing combining a two-dimensional network of nonlinear mass-spring resonators with magnetic tunnel junctions**|Andrea Grimaldi et.al.|[2601.03996](http://arxiv.org/abs/2601.03996)|null|
 |**2026-01-07**|**Spider web-inspired sensing and computation with fiber network physical reservoirs**|Apoorva Khairnar et.al.|[2601.03536](http://arxiv.org/abs/2601.03536)|null|
-|**2026-01-06**|**Coupled Microelectromechanical Drum Resonators for Reservoir Computing via Sideband Pumped Phonon-Cavity Dynamics**|Theresa Farah et.al.|[2601.02617](http://arxiv.org/abs/2601.02617)|null|
+|**2026-01-14**|**Coupled Microelectromechanical Drum Resonators for Reservoir Computing via Sideband Pumped Phonon-Cavity Dynamics**|Theresa Farah et.al.|[2601.02617](http://arxiv.org/abs/2601.02617)|null|
 |**2026-01-05**|**Quantum Extreme Reservoir Computing for Phase Classification of Polymer Alloy Microstructures**|Arisa Ikeda et.al.|[2601.02150](http://arxiv.org/abs/2601.02150)|null|
 |**2026-01-05**|**Toward Thermodynamic Reservoir Computing: Exploring SHA-256 ASICs as Potential Physical Substrates**|Francisco Angulo de Lafuente et.al.|[2601.01916](http://arxiv.org/abs/2601.01916)|null|
 |**2026-01-01**|**Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting**|Ata Akbari Asanjan et.al.|[2601.00172](http://arxiv.org/abs/2601.00172)|null|
@@ -193,7 +195,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## ESN
 
@@ -274,7 +276,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## LSM
 
@@ -333,7 +335,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
