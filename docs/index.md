@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.01.21
+## Updated on 2026.01.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
+|**2026-01-17**|**Speaking to Silicon: Neural Communication with Bitcoin Mining ASICs**|Francisco Angulo de Lafuente et.al.|[2601.12032](http://arxiv.org/abs/2601.12032)|null|
 |**2026-01-12**|**Innovation Capacity of Dynamical Learning Systems**|Anthony M. Polloreno et.al.|[2601.07257](http://arxiv.org/abs/2601.07257)|null|
 |**2026-01-09**|**Reservoir computing from collective dynamics of active colloidal oscillators**|Veit-Lorenz Heuthe et.al.|[2601.05767](http://arxiv.org/abs/2601.05767)|null|
 |**2026-01-08**|**Quantum Wiener architecture for quantum reservoir computing**|Alessio Benavoli et.al.|[2601.04812](http://arxiv.org/abs/2601.04812)|null|
@@ -194,9 +196,10 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
 |**2025-12-22**|**Sign Language Recognition using Parallel Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.19451](http://arxiv.org/abs/2512.19451)|null|
 |**2025-12-16**|**Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks**|Rae Chipera et.al.|[2512.14675](http://arxiv.org/abs/2512.14675)|null|
-|**2025-12-15**|**From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles**|Giovanni Ballarin et.al.|[2512.13642](http://arxiv.org/abs/2512.13642)|null|
+|**2026-01-20**|**From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles**|Giovanni Ballarin et.al.|[2512.13642](http://arxiv.org/abs/2512.13642)|null|
 |**2025-11-28**|**Multivariate time series prediction using clustered echo state network**|S. Hariharan et.al.|[2512.08963](http://arxiv.org/abs/2512.08963)|null|
 |**2025-12-07**|**Decoding Motor Behavior Using Deep Learning and Reservoir Computing**|Tian Lan et.al.|[2512.06725](http://arxiv.org/abs/2512.06725)|null|
 |**2025-11-30**|**Sign Language Recognition using Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.00777](http://arxiv.org/abs/2512.00777)|null|
