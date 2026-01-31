@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,10 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Ensemble Reservoir Computing for Physical Systems**|Yuma Nakamura et.al.|[2601.21807](http://arxiv.org/abs/2601.21807)|null|
+|**2026-01-28**|**Two-shot learning of multiple strange attractors**|Daniel Köglmayr et.al.|[2601.21117](http://arxiv.org/abs/2601.21117)|null|
+|**2026-01-27**|**Quantum Light Detection with Enhanced Photonic Neural Network**|Stanisław Świerczewski et.al.|[2601.19721](http://arxiv.org/abs/2601.19721)|null|
+|**2026-01-26**|**Smooth embeddings in contracting recurrent networks driven by regular dynamics: A synthesis for neural representation**|Vikas N. O'Reilly-Shah et.al.|[2601.19019](http://arxiv.org/abs/2601.19019)|null|
 |**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
 |**2026-01-17**|**Speaking to Silicon: Neural Communication with Bitcoin Mining ASICs**|Francisco Angulo de Lafuente et.al.|[2601.12032](http://arxiv.org/abs/2601.12032)|null|
 |**2026-01-12**|**Innovation Capacity of Dynamical Learning Systems**|Anthony M. Polloreno et.al.|[2601.07257](http://arxiv.org/abs/2601.07257)|null|
@@ -197,12 +201,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-24**|**A new approach for combined model class selection and parameters learning for auto-regressive neural models**|Corrado Sgadari et.al.|[2601.17442](http://arxiv.org/abs/2601.17442)|null|
 |**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
 |**2025-12-22**|**Sign Language Recognition using Parallel Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.19451](http://arxiv.org/abs/2512.19451)|null|
 |**2025-12-16**|**Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks**|Rae Chipera et.al.|[2512.14675](http://arxiv.org/abs/2512.14675)|null|
@@ -279,7 +284,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## LSM
 
@@ -338,7 +343,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
