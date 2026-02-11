@@ -16,11 +16,21 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-07**|**Substrate-Voltage-Controlled Temporal Nonlinearity in Ferroelectric FET-based Reservoir Computing**|Eishin Nako et.al.|[2602.07334](http://arxiv.org/abs/2602.07334)|null|
+|**2026-02-06**|**Online Adaptive Reinforcement Learning with Echo State Networks for Non-Stationary Dynamics**|Aoi Yoshimura et.al.|[2602.06326](http://arxiv.org/abs/2602.06326)|null|
+|**2026-02-05**|**Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics**|Saad Yousuf et.al.|[2602.05931](http://arxiv.org/abs/2602.05931)|null|
+|**2026-02-05**|**Photonic neuromorphic processing with coupled spiking silicon microrings**|Giovanni Donati et.al.|[2602.05918](http://arxiv.org/abs/2602.05918)|null|
+|**2026-02-05**|**Neuro-Inspired Visual Pattern Recognition via Biological Reservoir Computing**|Luca Ciampi et.al.|[2602.05737](http://arxiv.org/abs/2602.05737)|null|
+|**2026-02-04**|**Scalable platform enabling reservoir computing with nanoporous oxide memristors for image recognition and time series prediction**|Joshua Donald et.al.|[2602.04619](http://arxiv.org/abs/2602.04619)|null|
+|**2026-02-03**|**QRC-Lab: An Educational Toolbox for Quantum Reservoir Computing**|Anderson Fernandes Pereira dos Santos et.al.|[2602.03522](http://arxiv.org/abs/2602.03522)|null|
+|**2026-01-31**|**Hybrid Artificial-Living Cell Collectives for Wetware Computing**|Ceylin Savas et.al.|[2602.00787](http://arxiv.org/abs/2602.00787)|null|
+|**2026-01-31**|**Practical Quantum Reservoir Computing in Rydberg Atom Arrays**|Dong-Sheng Liu et.al.|[2602.00610](http://arxiv.org/abs/2602.00610)|null|
+|**2026-01-30**|**Scalable Memory Sharing in Photonic Quantum Memristors for Reservoir Computing**|Chaehyeon Lim et.al.|[2601.23044](http://arxiv.org/abs/2601.23044)|null|
 |**2026-01-29**|**Ensemble Reservoir Computing for Physical Systems**|Yuma Nakamura et.al.|[2601.21807](http://arxiv.org/abs/2601.21807)|null|
 |**2026-01-28**|**Two-shot learning of multiple strange attractors**|Daniel Köglmayr et.al.|[2601.21117](http://arxiv.org/abs/2601.21117)|null|
 |**2026-01-27**|**Quantum Light Detection with Enhanced Photonic Neural Network**|Stanisław Świerczewski et.al.|[2601.19721](http://arxiv.org/abs/2601.19721)|null|
@@ -200,6 +210,11 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Online Adaptive Reinforcement Learning with Echo State Networks for Non-Stationary Dynamics**|Aoi Yoshimura et.al.|[2602.06326](http://arxiv.org/abs/2602.06326)|null|
+|**2026-02-06**|**Misophonia Trigger Sound Detection on Synthetic Soundscapes Using a Hybrid Model with a Frozen Pre-Trained CNN and a Time-Series Module**|Kurumi Sashida et.al.|[2602.06271](http://arxiv.org/abs/2602.06271)|null|
+|**2026-02-04**|**Hand Gesture Recognition from Doppler Radar Signals Using Echo State Networks**|Towa Sano et.al.|[2602.04436](http://arxiv.org/abs/2602.04436)|null|
+|**2026-02-03**|**Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking**|Alexander Häußer et.al.|[2602.03912](http://arxiv.org/abs/2602.03912)|null|
+|**2026-01-29**|**ParalESN: Enabling parallel information processing in Reservoir Computing**|Matteo Pinna et.al.|[2601.22296](http://arxiv.org/abs/2601.22296)|null|
 |**2026-01-24**|**A new approach for combined model class selection and parameters learning for auto-regressive neural models**|Corrado Sgadari et.al.|[2601.17442](http://arxiv.org/abs/2601.17442)|null|
 |**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
 |**2025-12-22**|**Sign Language Recognition using Parallel Bidirectional Reservoir Computing**|Nitin Kumar Singh et.al.|[2512.19451](http://arxiv.org/abs/2512.19451)|null|
