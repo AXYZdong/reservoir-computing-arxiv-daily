@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning**|Cassandre Notton et.al.|[2602.11092](http://arxiv.org/abs/2602.11092)|null|
+|**2026-02-11**|**Stabilizing chaotic dynamical system reproduction in reservoir computing**|Satoshi Oishi et.al.|[2602.11069](http://arxiv.org/abs/2602.11069)|null|
 |**2026-02-07**|**Substrate-Voltage-Controlled Temporal Nonlinearity in Ferroelectric FET-based Reservoir Computing**|Eishin Nako et.al.|[2602.07334](http://arxiv.org/abs/2602.07334)|null|
 |**2026-02-06**|**Online Adaptive Reinforcement Learning with Echo State Networks for Non-Stationary Dynamics**|Aoi Yoshimura et.al.|[2602.06326](http://arxiv.org/abs/2602.06326)|null|
 |**2026-02-05**|**Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics**|Saad Yousuf et.al.|[2602.05931](http://arxiv.org/abs/2602.05931)|null|
