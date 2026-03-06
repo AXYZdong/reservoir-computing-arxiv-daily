@@ -16,14 +16,17 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.02
+## Updated on 2026.03.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Predicting oscillations in complex networks with delayed feedback**|Shijie Liu et.al.|[2603.04251](http://arxiv.org/abs/2603.04251)|null|
+|**2026-03-04**|**Adaptive Sensing of Continuous Physical Systems for Machine Learning**|Felix Köster et.al.|[2603.03650](http://arxiv.org/abs/2603.03650)|null|
+|**2026-03-02**|**Learning-Performance Evaluation of a Physical Reservoir Based on a Vortex Spin-Torque Oscillator with a Modified Free Layer**|Kota Horizumi et.al.|[2603.01351](http://arxiv.org/abs/2603.01351)|null|
 |**2026-02-26**|**Photonic Neuromorphic Computing enabled by a BIC Metasurface**|Jingsong Fu et.al.|[2602.22528](http://arxiv.org/abs/2602.22528)|null|
 |**2026-02-25**|**Efficient time-series prediction on NISQ devices via time-delayed quantum extreme learning machine**|Mio Kawanabe et.al.|[2602.21544](http://arxiv.org/abs/2602.21544)|null|
-|**2026-02-23**|**Reversible Information Transformation via Quantum Reservoir Computing: Conditions, Protocol, and Noise Resilience**|Hikaru Wakaura et.al.|[2602.19700](http://arxiv.org/abs/2602.19700)|null|
+|**2026-02-27**|**Quantum Reservoir Autoencoder: Conditions, Protocol, and Noise Resilience**|Hikaru Wakaura et.al.|[2602.19700](http://arxiv.org/abs/2602.19700)|null|
 |**2026-02-20**|**Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach**|Markus Gross et.al.|[2602.18377](http://arxiv.org/abs/2602.18377)|null|
 |**2026-02-20**|**Responsive Disorder in a Metal-Organic Framework Enables Solid-State Reservoir Computing**|Guy Greenbaum et.al.|[2602.18335](http://arxiv.org/abs/2602.18335)|null|
 |**2026-02-20**|**Cavity Solitons as a Nonlinear Substrate for Photonic Neuromorphic Computing**|Amir Arsalan Arabieh et.al.|[2602.18110](http://arxiv.org/abs/2602.18110)|null|
