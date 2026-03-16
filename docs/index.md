@@ -16,12 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.09
+## Updated on 2026.03.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-04**|**Predicting oscillations in complex networks with delayed feedback**|Shijie Liu et.al.|[2603.04251](http://arxiv.org/abs/2603.04251)|null|
+|**2026-03-13**|**Breaking concentration barriers for quantum extreme learning on digital quantum processors**|Timothée Dao et.al.|[2603.13005](http://arxiv.org/abs/2603.13005)|null|
+|**2026-03-11**|**Hybrid Photonic Quantum Reservoir Computing for High-Dimensional Financial Surface Prediction**|Fyodor Amanov et.al.|[2603.10707](http://arxiv.org/abs/2603.10707)|null|
+|**2026-02-25**|**RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics**|Heng Zhang et.al.|[2603.06639](http://arxiv.org/abs/2603.06639)|null|
+|**2026-03-05**|**Extreme Quantum Cognition Machines for Deliberative Decision Making**|Francesco Romeo et.al.|[2603.05430](http://arxiv.org/abs/2603.05430)|null|
+|**2026-03-05**|**Spectral dynamics reservoir computing for high-speed hardware-efficient neuromorphic processing**|Jiaxuan Chen et.al.|[2603.04901](http://arxiv.org/abs/2603.04901)|null|
+|**2026-03-04**|**Can a Building Work as a Reservoir: Footstep Localization with Embedded Accelerometer Networks**|Jun Wang et.al.|[2603.04610](http://arxiv.org/abs/2603.04610)|null|
+|**2026-03-05**|**Predicting oscillations in complex networks with delayed feedback**|Shijie Liu et.al.|[2603.04251](http://arxiv.org/abs/2603.04251)|null|
 |**2026-03-04**|**Adaptive Sensing of Continuous Physical Systems for Machine Learning**|Felix Köster et.al.|[2603.03650](http://arxiv.org/abs/2603.03650)|null|
 |**2026-03-02**|**Learning-Performance Evaluation of a Physical Reservoir Based on a Vortex Spin-Torque Oscillator with a Modified Free Layer**|Kota Horizumi et.al.|[2603.01351](http://arxiv.org/abs/2603.01351)|null|
 |**2026-02-26**|**Photonic Neuromorphic Computing enabled by a BIC Metasurface**|Jingsong Fu et.al.|[2602.22528](http://arxiv.org/abs/2602.22528)|null|
