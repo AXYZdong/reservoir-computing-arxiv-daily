@@ -16,11 +16,19 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.16
+## Updated on 2026.03.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach**|Rahul Halder et.al.|[2603.18837](http://arxiv.org/abs/2603.18837)|null|
+|**2026-03-19**|**A mathematical framework for time-delay reservoir computing analysis**|Anh-Tuan Clabaut et.al.|[2603.18706](http://arxiv.org/abs/2603.18706)|null|
+|**2026-03-11**|**Taming Epilepsy: Mean Field Control of Whole-Brain Dynamics**|Ming Li et.al.|[2603.18035](http://arxiv.org/abs/2603.18035)|null|
+|**2026-03-17**|**Quantum reservoir computing with classical and nonclassical states in an integrated optical circuit**|S. Świerczewski et.al.|[2603.17103](http://arxiv.org/abs/2603.17103)|null|
+|**2026-03-16**|**Storage and selection of multiple chaotic attractors in minimal reservoir computers**|Francesco Martinuzzi et.al.|[2603.15155](http://arxiv.org/abs/2603.15155)|null|
+|**2026-03-16**|**Ultra-Early Prediction of Tipping Points: Integrating Dynamical Measures with Reservoir Computing**|Xin Li et.al.|[2603.14944](http://arxiv.org/abs/2603.14944)|null|
+|**2026-03-16**|**OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX**|Jan Williams et.al.|[2603.14802](http://arxiv.org/abs/2603.14802)|null|
+|**2026-03-13**|**Emergent E-I Structure in Performance-Evolved Reservoir Networks of Neuronal Population Dynamics**|Manish Yadav et.al.|[2603.13635](http://arxiv.org/abs/2603.13635)|null|
 |**2026-03-13**|**Breaking concentration barriers for quantum extreme learning on digital quantum processors**|Timothée Dao et.al.|[2603.13005](http://arxiv.org/abs/2603.13005)|null|
 |**2026-03-11**|**Hybrid Photonic Quantum Reservoir Computing for High-Dimensional Financial Surface Prediction**|Fyodor Amanov et.al.|[2603.10707](http://arxiv.org/abs/2603.10707)|null|
 |**2026-02-25**|**RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics**|Heng Zhang et.al.|[2603.06639](http://arxiv.org/abs/2603.06639)|null|
