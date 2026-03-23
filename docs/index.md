@@ -16,7 +16,7 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.21
+## Updated on 2026.03.23
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
