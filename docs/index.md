@@ -16,11 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.23
+## Updated on 2026.03.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing**|Rinku Sebastian et.al.|[2603.24283](http://arxiv.org/abs/2603.24283)|null|
+|**2026-03-25**|**Reservoir-Based Graph Convolutional Networks**|Mayssa Soussia et.al.|[2603.24131](http://arxiv.org/abs/2603.24131)|null|
+|**2026-03-25**|**State-space fading memory**|Gustave Bainier et.al.|[2603.23814](http://arxiv.org/abs/2603.23814)|null|
+|**2026-03-24**|**Distinct memory properties in spin-wave reservoir computing based on synthetic antiferromagnet**|Takumu Shinkai et.al.|[2603.22696](http://arxiv.org/abs/2603.22696)|null|
+|**2026-03-23**|**Optimal Memory Encoding Through Fluctuation-Response Structure**|Lianxiang Cui et.al.|[2603.21666](http://arxiv.org/abs/2603.21666)|null|
+|**2026-03-22**|**Memory-Nonlinearity Trade-off across Quantum Reservoir Computing Frameworks**|Saud Čindrak et.al.|[2603.21371](http://arxiv.org/abs/2603.21371)|null|
+|**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-03-19**|**Model Order Reduction of Cerebrovascular Hemodynamics Using POD_Galerkin and Reservoir Computing_based Approach**|Rahul Halder et.al.|[2603.18837](http://arxiv.org/abs/2603.18837)|null|
 |**2026-03-19**|**A mathematical framework for time-delay reservoir computing analysis**|Anh-Tuan Clabaut et.al.|[2603.18706](http://arxiv.org/abs/2603.18706)|null|
 |**2026-03-11**|**Taming Epilepsy: Mean Field Control of Whole-Brain Dynamics**|Ming Li et.al.|[2603.18035](http://arxiv.org/abs/2603.18035)|null|
@@ -241,6 +248,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-02-25**|**When Learning Hurts: Fixed-Pole RNN for Real-Time Online Training**|Alexander Morgan et.al.|[2602.21454](http://arxiv.org/abs/2602.21454)|null|
 |**2026-02-24**|**Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization**|Yuki Nakamura et.al.|[2602.20846](http://arxiv.org/abs/2602.20846)|null|
 |**2026-02-23**|**Linear Reservoir: A Diagonalization-Based Optimization**|Romain de Coudenhove et.al.|[2602.19802](http://arxiv.org/abs/2602.19802)|null|
