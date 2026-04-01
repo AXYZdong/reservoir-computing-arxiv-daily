@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Structural and dynamical strategies to prevent runaway excitation in reservoir computing**|Claus Metzner et.al.|[2603.29597](http://arxiv.org/abs/2603.29597)|null|
+|**2026-03-31**|**Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing**|Sota Hikasa et.al.|[2603.29311](http://arxiv.org/abs/2603.29311)|null|
 |**2026-03-25**|**Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing**|Rinku Sebastian et.al.|[2603.24283](http://arxiv.org/abs/2603.24283)|null|
 |**2026-03-25**|**Reservoir-Based Graph Convolutional Networks**|Mayssa Soussia et.al.|[2603.24131](http://arxiv.org/abs/2603.24131)|null|
 |**2026-03-25**|**State-space fading memory**|Gustave Bainier et.al.|[2603.23814](http://arxiv.org/abs/2603.23814)|null|
@@ -256,7 +258,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2026-02-06**|**Online Adaptive Reinforcement Learning with Echo State Networks for Non-Stationary Dynamics**|Aoi Yoshimura et.al.|[2602.06326](http://arxiv.org/abs/2602.06326)|null|
 |**2026-02-06**|**Misophonia Trigger Sound Detection on Synthetic Soundscapes Using a Hybrid Model with a Frozen Pre-Trained CNN and a Time-Series Module**|Kurumi Sashida et.al.|[2602.06271](http://arxiv.org/abs/2602.06271)|null|
 |**2026-02-04**|**Hand Gesture Recognition from Doppler Radar Signals Using Echo State Networks**|Towa Sano et.al.|[2602.04436](http://arxiv.org/abs/2602.04436)|null|
-|**2026-02-03**|**Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking**|Alexander Häußer et.al.|[2602.03912](http://arxiv.org/abs/2602.03912)|null|
+|**2026-03-30**|**Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking**|Alexander Häußer et.al.|[2602.03912](http://arxiv.org/abs/2602.03912)|null|
 |**2026-01-29**|**ParalESN: Enabling parallel information processing in Reservoir Computing**|Matteo Pinna et.al.|[2601.22296](http://arxiv.org/abs/2601.22296)|null|
 |**2026-01-24**|**A new approach for combined model class selection and parameters learning for auto-regressive neural models**|Corrado Sgadari et.al.|[2601.17442](http://arxiv.org/abs/2601.17442)|null|
 |**2026-01-18**|**Long-term prediction of ENSO with physics-guided Deep Echo State Networks**|Zejing Zhang et.al.|[2601.12251](http://arxiv.org/abs/2601.12251)|null|
