@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.04.01
+## Updated on 2026.04.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Computing with Living Neurons: Chaos-Controlled Reservoir Computing with Knowledge Transplant**|Seung Hyun Kim et.al.|[2604.02552](http://arxiv.org/abs/2604.02552)|null|
+|**2026-04-01**|**Phase space integrity in neural network models of Hamiltonian dynamics: A Lagrangian descriptor approach**|Abrari Noor Hasmi et.al.|[2604.00473](http://arxiv.org/abs/2604.00473)|null|
+|**2026-03-31**|**Lead Zirconate Titanate Reservoir Computing for Classification of Written and Spoken Digits**|Thomas Buckley et.al.|[2604.00207](http://arxiv.org/abs/2604.00207)|null|
 |**2026-03-31**|**Structural and dynamical strategies to prevent runaway excitation in reservoir computing**|Claus Metzner et.al.|[2603.29597](http://arxiv.org/abs/2603.29597)|null|
 |**2026-03-31**|**Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing**|Sota Hikasa et.al.|[2603.29311](http://arxiv.org/abs/2603.29311)|null|
 |**2026-03-25**|**Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing**|Rinku Sebastian et.al.|[2603.24283](http://arxiv.org/abs/2603.24283)|null|
