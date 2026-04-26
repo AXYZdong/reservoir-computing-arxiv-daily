@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.04.20
+## Updated on 2026.04.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,16 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[2604.21861](http://arxiv.org/abs/2604.21861)|null|
+|**2026-04-23**|**On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification**|Rishona Daniels et.al.|[2604.21602](http://arxiv.org/abs/2604.21602)|null|
+|**2026-04-22**|**Node-reduction through Joint Optimization of Input and Readout Layers in Photonic Reservoir Equalization**|Ruben Van Assche et.al.|[2604.20519](http://arxiv.org/abs/2604.20519)|null|
+|**2026-04-17**|**What Makes a Bacterial Model a Good Reservoir Computer? Predicting Performance from Separability and Similarity**|Laura Alonso Bartolomé et.al.|[2604.19850](http://arxiv.org/abs/2604.19850)|null|
+|**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
+|**2026-04-14**|**Data-driven characterization of spatiotemporal chaos using ensemble reservoir computing**|Xiaoqi Lei et.al.|[2604.12809](http://arxiv.org/abs/2604.12809)|null|
+|**2026-04-11**|**Deep Photonic Reservoir Computer Meets UAV Control: An ultra-fast learning-based compensator for agile flight in confined space**|Qinxiao Ma et.al.|[2604.10262](http://arxiv.org/abs/2604.10262)|null|
+|**2026-04-10**|**Vestibular reservoir computing**|Smita Deb et.al.|[2604.09943](http://arxiv.org/abs/2604.09943)|null|
+|**2026-04-10**|**Unidirectional information flow in a nanomagnetic metamaterial**|Johannes H. Jensen et.al.|[2604.09420](http://arxiv.org/abs/2604.09420)|null|
+|**2026-04-13**|**A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need**|Hananel Hazan et.al.|[2604.08749](http://arxiv.org/abs/2604.08749)|null|
 |**2026-04-09**|**Multivariate quantum reservoir computing with discrete and continuous variable systems**|Tobias Fellner et.al.|[2604.08427](http://arxiv.org/abs/2604.08427)|null|
 |**2026-04-08**|**OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing**|Yogesh Phalak et.al.|[2604.07423](http://arxiv.org/abs/2604.07423)|null|
 |**2026-04-08**|**CBM-Dual: A 65-nm Fully Connected Chaotic Boltzmann Machine Processor for Dual Function Simulated Annealing and Reservoir Computing**|Kanta Yoshioka et.al.|[2604.06808](http://arxiv.org/abs/2604.06808)|null|
@@ -263,12 +273,16 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
+|**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
+|**2026-04-14**|**Learning Low-Dimensional Representation for O-RAN Testing via Transformer-ESN**|Jiongyu Dai et.al.|[2604.12958](http://arxiv.org/abs/2604.12958)|null|
+|**2026-04-13**|**Prediction of chaotic dynamics from data: An introduction**|Luca Magri et.al.|[2604.11624](http://arxiv.org/abs/2604.11624)|null|
 |**2026-04-03**|**Recurrent Quantum Feature Maps for Reservoir Computing**|Utkarsh Singh et.al.|[2604.03469](http://arxiv.org/abs/2604.03469)|null|
 |**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-02-25**|**When Learning Hurts: Fixed-Pole RNN for Real-Time Online Training**|Alexander Morgan et.al.|[2602.21454](http://arxiv.org/abs/2602.21454)|null|
@@ -357,7 +371,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## LSM
 
@@ -416,7 +430,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
