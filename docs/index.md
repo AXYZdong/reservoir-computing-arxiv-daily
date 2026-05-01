@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Inferring bifurcation diagrams of two distinct chaotic systems by a single machine**|Jianmin Guo et.al.|[2604.26632](http://arxiv.org/abs/2604.26632)|null|
+|**2026-04-26**|**Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System**|Tushar Pandey et.al.|[2604.23743](http://arxiv.org/abs/2604.23743)|null|
+|**2026-04-26**|**Finite-time Lyaponov analysis of a trained reservoir computer**|Dishant Sisodia et.al.|[2604.23654](http://arxiv.org/abs/2604.23654)|null|
+|**2026-04-24**|**Memory in Integrated Photonic Neural Networks: From Physical Mechanisms to Neuromorphic Architectures**|Alessandro Foradori et.al.|[2604.22620](http://arxiv.org/abs/2604.22620)|null|
 |**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[2604.21861](http://arxiv.org/abs/2604.21861)|null|
 |**2026-04-23**|**On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification**|Rishona Daniels et.al.|[2604.21602](http://arxiv.org/abs/2604.21602)|null|
 |**2026-04-22**|**Node-reduction through Joint Optimization of Input and Readout Layers in Photonic Reservoir Equalization**|Ruben Van Assche et.al.|[2604.20519](http://arxiv.org/abs/2604.20519)|null|
