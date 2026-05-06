@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.04
+## Updated on 2026.05.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,14 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Understanding Task Performance of Time-Multiplexed Optical Reservoir Computing via Polynomial Expansion**|Elias R. Koch et.al.|[2605.03471](http://arxiv.org/abs/2605.03471)|null|
+|**2026-05-04**|**Learning Temporal Patterns in Financial Time Series: A Comparative Study of Quantum LSTM and Quantum Reservoir Computing**|Danyal Maheshwari et.al.|[2605.02656](http://arxiv.org/abs/2605.02656)|null|
+|**2026-05-03**|**Computing with the complex nonlinear dynamics of an optomechanical oscillator**|Shulamit Edelstein et.al.|[2605.01792](http://arxiv.org/abs/2605.01792)|null|
+|**2026-05-02**|**Optimizing Reservoir Computing for Reconstructing Ergodic Properties**|Akira Kawano et.al.|[2605.01439](http://arxiv.org/abs/2605.01439)|null|
+|**2026-05-02**|**Reservoir computing by thin film embedded with magnetic impurities**|Shuto Kamakura et.al.|[2605.01360](http://arxiv.org/abs/2605.01360)|null|
+|**2026-05-02**|**Evaluating quantum circuits in the reservoir computing paradigm**|Gaurav Rudra Malik et.al.|[2605.01253](http://arxiv.org/abs/2605.01253)|null|
+|**2026-05-01**|**Combined spatially and temporally multiplexed photonic reservoir computer with a diffractively coupled VCSEL-array**|Joshua Robertson et.al.|[2605.00753](http://arxiv.org/abs/2605.00753)|null|
+|**2026-04-30**|**Reorganizing Quantum Measurement Records Improves Time-Series Prediction**|Markus Baumann et.al.|[2604.28160](http://arxiv.org/abs/2604.28160)|null|
 |**2026-04-29**|**Inferring bifurcation diagrams of two distinct chaotic systems by a single machine**|Jianmin Guo et.al.|[2604.26632](http://arxiv.org/abs/2604.26632)|null|
 |**2026-04-26**|**Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System**|Tushar Pandey et.al.|[2604.23743](http://arxiv.org/abs/2604.23743)|null|
 |**2026-04-26**|**Finite-time Lyaponov analysis of a trained reservoir computer**|Dishant Sisodia et.al.|[2604.23654](http://arxiv.org/abs/2604.23654)|null|
@@ -277,7 +285,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## ESN
 
@@ -375,7 +383,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## LSM
 
@@ -434,7 +442,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
