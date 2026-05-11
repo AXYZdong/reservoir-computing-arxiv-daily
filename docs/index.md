@@ -16,11 +16,16 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et.al.|[2605.06727](http://arxiv.org/abs/2605.06727)|null|
+|**2026-05-06**|**Scalable Quantum Reservoir Computing over Distributed Quantum Architectures**|Ioannis Liliopoulos et.al.|[2605.04991](http://arxiv.org/abs/2605.04991)|null|
+|**2026-05-06**|**Koopman Identification of Nonlinear Systems via Reservoir Liftings**|Weibin Gu et.al.|[2605.04917](http://arxiv.org/abs/2605.04917)|null|
+|**2026-05-05**|**Neural Manifolds as Crystallized Embeddings: A Synthesis of the Free Energy Principle, Generalized Synchronization, and Hebbian Plasticity**|Vikas N. O'Reilly-Shah et.al.|[2605.04200](http://arxiv.org/abs/2605.04200)|null|
+|**2026-05-05**|**Can Transformers predict system collapse in dynamical systems?**|Zheng-Meng Zhai et.al.|[2605.04024](http://arxiv.org/abs/2605.04024)|null|
 |**2026-05-05**|**Understanding Task Performance of Time-Multiplexed Optical Reservoir Computing via Polynomial Expansion**|Elias R. Koch et.al.|[2605.03471](http://arxiv.org/abs/2605.03471)|null|
 |**2026-05-04**|**Learning Temporal Patterns in Financial Time Series: A Comparative Study of Quantum LSTM and Quantum Reservoir Computing**|Danyal Maheshwari et.al.|[2605.02656](http://arxiv.org/abs/2605.02656)|null|
 |**2026-05-03**|**Computing with the complex nonlinear dynamics of an optomechanical oscillator**|Shulamit Edelstein et.al.|[2605.01792](http://arxiv.org/abs/2605.01792)|null|
@@ -284,12 +289,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
 |**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
 |**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
 |**2026-04-14**|**Learning Low-Dimensional Representation for O-RAN Testing via Transformer-ESN**|Jiongyu Dai et.al.|[2604.12958](http://arxiv.org/abs/2604.12958)|null|
 |**2026-04-13**|**Prediction of chaotic dynamics from data: An introduction**|Luca Magri et.al.|[2604.11624](http://arxiv.org/abs/2604.11624)|null|
 |**2026-04-03**|**Recurrent Quantum Feature Maps for Reservoir Computing**|Utkarsh Singh et.al.|[2604.03469](http://arxiv.org/abs/2604.03469)|null|
-|**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
+|**2026-05-06**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-02-25**|**When Learning Hurts: Fixed-Pole RNN for Real-Time Online Training**|Alexander Morgan et.al.|[2602.21454](http://arxiv.org/abs/2602.21454)|null|
 |**2026-02-24**|**Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization**|Yuki Nakamura et.al.|[2602.20846](http://arxiv.org/abs/2602.20846)|null|
 |**2026-02-23**|**Linear Reservoir: A Diagonalization-Based Optimization**|Romain de Coudenhove et.al.|[2602.19802](http://arxiv.org/abs/2602.19802)|null|
