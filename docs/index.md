@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Are cortical microcircuits optimized for information flux? -- A simulation-based reverse engineering study**|Claus Metzner et.al.|[2605.14680](http://arxiv.org/abs/2605.14680)|null|
+|**2026-05-13**|**Reservoir Computing with a single Josephson junction**|George Baxevanis et.al.|[2605.13354](http://arxiv.org/abs/2605.13354)|null|
+|**2026-05-12**|**Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs**|Erik L. Connerty et.al.|[2605.12713](http://arxiv.org/abs/2605.12713)|null|
+|**2026-05-11**|**A Random-Matrix Criterion for Initializing Gated Recurrent Neural Networks**|Tommaso Fioratti et.al.|[2605.10650](http://arxiv.org/abs/2605.10650)|null|
 |**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et.al.|[2605.06727](http://arxiv.org/abs/2605.06727)|null|
 |**2026-05-06**|**Scalable Quantum Reservoir Computing over Distributed Quantum Architectures**|Ioannis Liliopoulos et.al.|[2605.04991](http://arxiv.org/abs/2605.04991)|null|
 |**2026-05-06**|**Koopman Identification of Nonlinear Systems via Reservoir Liftings**|Weibin Gu et.al.|[2605.04917](http://arxiv.org/abs/2605.04917)|null|
