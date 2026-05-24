@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.18
+## Updated on 2026.05.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,9 +26,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Reconfigurable Nonlinear Photonic Networks for In-Situ Learning and Memory Formation via Driven-Dissipative Dynamics**|Isaac Yorke et.al.|[2605.19911](http://arxiv.org/abs/2605.19911)|null|
+|**2026-05-19**|**Task-specific programming of chaos in neural circuits**|Jungyoon Kim et.al.|[2605.19465](http://arxiv.org/abs/2605.19465)|null|
+|**2026-05-18**|**Embodying Intelligence into Mechanical Metamaterials via Reservoir Computing**|Shan He et.al.|[2605.19098](http://arxiv.org/abs/2605.19098)|null|
+|**2026-05-14**|**QuChaTeR: A Hybrid Quantum-Chaotic Temporal Framework for Earthquake Prediction**|Emir Kaan Özdemir et.al.|[2605.16454](http://arxiv.org/abs/2605.16454)|null|
 |**2026-05-14**|**Are cortical microcircuits optimized for information flux? -- A simulation-based reverse engineering study**|Claus Metzner et.al.|[2605.14680](http://arxiv.org/abs/2605.14680)|null|
 |**2026-05-13**|**Reservoir Computing with a single Josephson junction**|George Baxevanis et.al.|[2605.13354](http://arxiv.org/abs/2605.13354)|null|
-|**2026-05-12**|**Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs**|Erik L. Connerty et.al.|[2605.12713](http://arxiv.org/abs/2605.12713)|null|
+|**2026-05-15**|**Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs**|Erik L. Connerty et.al.|[2605.12713](http://arxiv.org/abs/2605.12713)|null|
 |**2026-05-11**|**A Random-Matrix Criterion for Initializing Gated Recurrent Neural Networks**|Tommaso Fioratti et.al.|[2605.10650](http://arxiv.org/abs/2605.10650)|null|
 |**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et.al.|[2605.06727](http://arxiv.org/abs/2605.06727)|null|
 |**2026-05-06**|**Scalable Quantum Reservoir Computing over Distributed Quantum Architectures**|Ioannis Liliopoulos et.al.|[2605.04991](http://arxiv.org/abs/2605.04991)|null|
@@ -294,12 +298,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-07**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
 |**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
 |**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
@@ -393,7 +398,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
 
 ## LSM
 
@@ -452,7 +457,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors

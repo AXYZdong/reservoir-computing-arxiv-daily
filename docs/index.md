@@ -16,14 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.18
+## Updated on 2026.05.24
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Reconfigurable Nonlinear Photonic Networks for In-Situ Learning and Memory Formation via Driven-Dissipative Dynamics**|Isaac Yorke et.al.|[2605.19911](http://arxiv.org/abs/2605.19911)|null|
+|**2026-05-19**|**Task-specific programming of chaos in neural circuits**|Jungyoon Kim et.al.|[2605.19465](http://arxiv.org/abs/2605.19465)|null|
+|**2026-05-18**|**Embodying Intelligence into Mechanical Metamaterials via Reservoir Computing**|Shan He et.al.|[2605.19098](http://arxiv.org/abs/2605.19098)|null|
+|**2026-05-14**|**QuChaTeR: A Hybrid Quantum-Chaotic Temporal Framework for Earthquake Prediction**|Emir Kaan Özdemir et.al.|[2605.16454](http://arxiv.org/abs/2605.16454)|null|
 |**2026-05-14**|**Are cortical microcircuits optimized for information flux? -- A simulation-based reverse engineering study**|Claus Metzner et.al.|[2605.14680](http://arxiv.org/abs/2605.14680)|null|
 |**2026-05-13**|**Reservoir Computing with a single Josephson junction**|George Baxevanis et.al.|[2605.13354](http://arxiv.org/abs/2605.13354)|null|
-|**2026-05-12**|**Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs**|Erik L. Connerty et.al.|[2605.12713](http://arxiv.org/abs/2605.12713)|null|
+|**2026-05-15**|**Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs**|Erik L. Connerty et.al.|[2605.12713](http://arxiv.org/abs/2605.12713)|null|
 |**2026-05-11**|**A Random-Matrix Criterion for Initializing Gated Recurrent Neural Networks**|Tommaso Fioratti et.al.|[2605.10650](http://arxiv.org/abs/2605.10650)|null|
 |**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et.al.|[2605.06727](http://arxiv.org/abs/2605.06727)|null|
 |**2026-05-06**|**Scalable Quantum Reservoir Computing over Distributed Quantum Architectures**|Ioannis Liliopoulos et.al.|[2605.04991](http://arxiv.org/abs/2605.04991)|null|
@@ -293,6 +297,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-07**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
 |**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
 |**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
