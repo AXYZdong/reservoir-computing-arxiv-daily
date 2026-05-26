@@ -111,11 +111,7 @@ def get_daily_papers(topic, query=" ", max_results=2):
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    client = arxiv.Client(
-        page_size=10,
-        delay_seconds=8,
-        num_retries=2
-    )
+    client = arxiv.Client()
   
     for result in client.results(search_engine):
 
