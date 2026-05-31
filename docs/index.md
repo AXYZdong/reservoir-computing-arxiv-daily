@@ -16,11 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.25
+## Updated on 2026.05.31
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Deep Binarized Photonic Reservoir Computing for Ultrafast Multimedia Signal Processing**|Muhammad Waqar Iqbal et.al.|[2605.30149](http://arxiv.org/abs/2605.30149)|null|
+|**2026-05-28**|**On the question of noise as a resource in quantum computing**|J. Montes et.al.|[2605.30026](http://arxiv.org/abs/2605.30026)|null|
+|**2026-05-27**|**A hidden bottleneck in classical and quantum linear reservoir computing**|Johannes Nokkala et.al.|[2605.29071](http://arxiv.org/abs/2605.29071)|null|
+|**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
+|**2026-05-26**|**Design principles for optoelectronic light-scattering reservoir computing at the edge of chaos**|Geon Kim et.al.|[2605.26848](http://arxiv.org/abs/2605.26848)|null|
+|**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
+|**2026-05-22**|**Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale**|Mackenson Polché et.al.|[2605.24252](http://arxiv.org/abs/2605.24252)|null|
 |**2026-05-19**|**Reconfigurable Nonlinear Photonic Networks for In-Situ Learning and Memory Formation via Driven-Dissipative Dynamics**|Isaac Yorke et.al.|[2605.19911](http://arxiv.org/abs/2605.19911)|null|
 |**2026-05-19**|**Task-specific programming of chaos in neural circuits**|Jungyoon Kim et.al.|[2605.19465](http://arxiv.org/abs/2605.19465)|null|
 |**2026-05-18**|**Embodying Intelligence into Mechanical Metamaterials via Reservoir Computing**|Shan He et.al.|[2605.19098](http://arxiv.org/abs/2605.19098)|null|
@@ -297,6 +304,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
+|**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-07**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
 |**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
