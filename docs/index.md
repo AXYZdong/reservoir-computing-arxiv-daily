@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error**|Markus Gross et.al.|[2605.31438](http://arxiv.org/abs/2605.31438)|null|
+|**2026-05-29**|**Research progress on quantum neural networks and quantum machine learning**|Yifan Sun et.al.|[2605.30724](http://arxiv.org/abs/2605.30724)|null|
 |**2026-05-28**|**Deep Binarized Photonic Reservoir Computing for Ultrafast Multimedia Signal Processing**|Muhammad Waqar Iqbal et.al.|[2605.30149](http://arxiv.org/abs/2605.30149)|null|
 |**2026-05-28**|**On the question of noise as a resource in quantum computing**|J. Montes et.al.|[2605.30026](http://arxiv.org/abs/2605.30026)|null|
 |**2026-05-27**|**A hidden bottleneck in classical and quantum linear reservoir computing**|Johannes Nokkala et.al.|[2605.29071](http://arxiv.org/abs/2605.29071)|null|
@@ -304,6 +306,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Evolutionary Algorithm for Reservoir Learning and Yielding**|Julien Testu et.al.|[2605.30372](http://arxiv.org/abs/2605.30372)|null|
 |**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
 |**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|

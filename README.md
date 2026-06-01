@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error**|Markus Gross et.al.|[2605.31438](http://arxiv.org/abs/2605.31438)|null|
+|**2026-05-29**|**Research progress on quantum neural networks and quantum machine learning**|Yifan Sun et.al.|[2605.30724](http://arxiv.org/abs/2605.30724)|null|
 |**2026-05-28**|**Deep Binarized Photonic Reservoir Computing for Ultrafast Multimedia Signal Processing**|Muhammad Waqar Iqbal et.al.|[2605.30149](http://arxiv.org/abs/2605.30149)|null|
 |**2026-05-28**|**On the question of noise as a resource in quantum computing**|J. Montes et.al.|[2605.30026](http://arxiv.org/abs/2605.30026)|null|
 |**2026-05-27**|**A hidden bottleneck in classical and quantum linear reservoir computing**|Johannes Nokkala et.al.|[2605.29071](http://arxiv.org/abs/2605.29071)|null|
@@ -305,12 +307,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Evolutionary Algorithm for Reservoir Learning and Yielding**|Julien Testu et.al.|[2605.30372](http://arxiv.org/abs/2605.30372)|null|
 |**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
 |**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
@@ -407,7 +410,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## LSM
 
@@ -466,7 +469,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
