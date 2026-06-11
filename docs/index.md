@@ -16,11 +16,19 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.06.08
+## Updated on 2026.06.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea**|Sherkhon Azimov et.al.|[2606.12141](http://arxiv.org/abs/2606.12141)|null|
+|**2026-06-10**|**Efficient Time Series Clustering from Multiscale Reservoir Dynamics with Granular-Ball Anchoring Graph Optimization**|Yifan Wang et.al.|[2606.12077](http://arxiv.org/abs/2606.12077)|null|
+|**2026-06-08**|**Effective Training Principles of Physical Reservoirs**|Sobhi Saeed et.al.|[2606.10130](http://arxiv.org/abs/2606.10130)|null|
+|**2026-06-07**|**Between Amnesia and Chaos: A Memory Stability Expressivity Trilemma for Trainable Dissipative Oscillator Networks**|Caleb Munigety et.al.|[2606.09929](http://arxiv.org/abs/2606.09929)|null|
+|**2026-06-05**|**The Whale That Outswam Evolution: Swarm Intelligence Maximises Memory in Connectome Reservoirs**|Anmol Guragain et.al.|[2606.09902](http://arxiv.org/abs/2606.09902)|null|
+|**2026-06-04**|**Computational Superiority of Non-Markovian Kerr Feedback in Continuous-Variable Quantum Reservoir Computing**|Daniel Soh et.al.|[2606.06689](http://arxiv.org/abs/2606.06689)|null|
+|**2026-06-03**|**Digital Quantum Reservoir Computing for ATM Time Series Prediction**|Chiara Vercellino et.al.|[2606.04686](http://arxiv.org/abs/2606.04686)|null|
+|**2026-06-02**|**Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning**|Jin Nakamura et.al.|[2606.03481](http://arxiv.org/abs/2606.03481)|null|
 |**2026-05-29**|**Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error**|Markus Gross et.al.|[2605.31438](http://arxiv.org/abs/2605.31438)|null|
 |**2026-05-29**|**Research progress on quantum neural networks and quantum machine learning**|Yifan Sun et.al.|[2605.30724](http://arxiv.org/abs/2605.30724)|null|
 |**2026-05-28**|**Deep Binarized Photonic Reservoir Computing for Ultrafast Multimedia Signal Processing**|Muhammad Waqar Iqbal et.al.|[2605.30149](http://arxiv.org/abs/2605.30149)|null|
@@ -306,6 +314,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**The Whale That Outswam Evolution: Swarm Intelligence Maximises Memory in Connectome Reservoirs**|Anmol Guragain et.al.|[2606.09902](http://arxiv.org/abs/2606.09902)|null|
 |**2026-05-19**|**Evolutionary Algorithm for Reservoir Learning and Yielding**|Julien Testu et.al.|[2605.30372](http://arxiv.org/abs/2605.30372)|null|
 |**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
 |**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
