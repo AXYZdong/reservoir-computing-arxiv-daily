@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-13**|**HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification**|Md Farhadul Islam et.al.|[2606.15151](http://arxiv.org/abs/2606.15151)|null|
+|**2026-06-12**|**Nonlinear pluggable optics: Digital signal processing-free Intensity Modulated Direct Detection links using analog photonic Next Generation Reservoir Computing**|Nicholas Cox et.al.|[2606.14052](http://arxiv.org/abs/2606.14052)|null|
+|**2026-06-11**|**Where a Quantum Reservoir Works: A Transferable Operating Band**|Markus Baumann et.al.|[2606.13284](http://arxiv.org/abs/2606.13284)|null|
+|**2026-06-11**|**Quantum Reservoir Computing for Short-Term Power Load Forecasting in Resource-Constrained Energy Systems**|Mansi Od et.al.|[2606.12806](http://arxiv.org/abs/2606.12806)|null|
 |**2026-06-10**|**PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea**|Sherkhon Azimov et.al.|[2606.12141](http://arxiv.org/abs/2606.12141)|null|
 |**2026-06-10**|**Efficient Time Series Clustering from Multiscale Reservoir Dynamics with Granular-Ball Anchoring Graph Optimization**|Yifan Wang et.al.|[2606.12077](http://arxiv.org/abs/2606.12077)|null|
 |**2026-06-08**|**Effective Training Principles of Physical Reservoirs**|Sobhi Saeed et.al.|[2606.10130](http://arxiv.org/abs/2606.10130)|null|
@@ -319,7 +323,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
 |**2026-05-24**|**Data-Specific Hyper-Parameter Design: A Paradigm Shift in Reservoir Computing**|G Manjunath et.al.|[2605.25221](http://arxiv.org/abs/2605.25221)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
-|**2026-05-07**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
+|**2026-06-15**|**Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning**|Kuo-Chung Peng et.al.|[2605.06734](http://arxiv.org/abs/2605.06734)|null|
 |**2026-04-21**|**Scalable Memristive-Friendly Reservoir Computing for Time Series Classification**|Coşku Can Horuz et.al.|[2604.19343](http://arxiv.org/abs/2604.19343)|null|
 |**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
 |**2026-04-14**|**Learning Low-Dimensional Representation for O-RAN Testing via Transformer-ESN**|Jiongyu Dai et.al.|[2604.12958](http://arxiv.org/abs/2604.12958)|null|
