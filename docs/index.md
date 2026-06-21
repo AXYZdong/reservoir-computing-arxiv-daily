@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Kolmogorov-Arnold Reservoir Computing**|Juntian Huang et.al.|[2606.19984](http://arxiv.org/abs/2606.19984)|null|
+|**2026-06-17**|**Measurement-enabled online quantum processing with amplitude encoding**|Giacomo Franceschetto et.al.|[2606.18991](http://arxiv.org/abs/2606.18991)|null|
+|**2026-06-16**|**Reservoir computing based on multicore fibers**|Igor Chekhovskoy et.al.|[2606.17671](http://arxiv.org/abs/2606.17671)|null|
 |**2026-06-13**|**HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification**|Md Farhadul Islam et.al.|[2606.15151](http://arxiv.org/abs/2606.15151)|null|
 |**2026-06-12**|**Nonlinear pluggable optics: Digital signal processing-free Intensity Modulated Direct Detection links using analog photonic Next Generation Reservoir Computing**|Nicholas Cox et.al.|[2606.14052](http://arxiv.org/abs/2606.14052)|null|
 |**2026-06-11**|**Where a Quantum Reservoir Works: A Transferable Operating Band**|Markus Baumann et.al.|[2606.13284](http://arxiv.org/abs/2606.13284)|null|
