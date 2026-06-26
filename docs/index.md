@@ -16,11 +16,21 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.06.22
+## Updated on 2026.06.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**One-shot prediction of noise-induced bifurcations with reservoir computing**|Nozomi Akashi et.al.|[2606.26727](http://arxiv.org/abs/2606.26727)|null|
+|**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
+|**2026-06-23**|**Attractor reconstruction in attracting subspaces: Slow-spectrum preshaping for reservoir computing under partial observation**|Satoshi Oishi et.al.|[2606.24303](http://arxiv.org/abs/2606.24303)|null|
+|**2026-06-22**|**The Fractal Neural Operator: Overcoming Spectral Bias in Chaotic Attractors via Prime-Harmonic Weierstrass Encodings**|Kanishk Awadhiya et.al.|[2606.23123](http://arxiv.org/abs/2606.23123)|null|
+|**2026-06-22**|**Mass Conservation as an Inductive Bias for Self-Organized Criticality in NCA Reservoirs**|Tong Zhang et.al.|[2606.23115](http://arxiv.org/abs/2606.23115)|null|
+|**2026-06-22**|**Evolutionary Optimization Reveals Structural Constraints on Reservoir Architecture for Spatiotemporal Chaos**|Nima Dehghani et.al.|[2606.22765](http://arxiv.org/abs/2606.22765)|null|
+|**2026-06-20**|**An Analysis of Untrained Deep Reservoir Networks for Audio Surveillance**|Corrado Baccheschi et.al.|[2606.22218](http://arxiv.org/abs/2606.22218)|null|
+|**2026-06-19**|**Direct Raw Audio Signal Processing via Reservoir Computing: An Investigation into 'Feature-Free' Architectures**|Rinku Sebastian et.al.|[2606.21335](http://arxiv.org/abs/2606.21335)|null|
+|**2026-06-19**|**Temporal processing of quantum states with hybrid quantum-classical reservoirs**|Mateu Coll-Comas et.al.|[2606.21327](http://arxiv.org/abs/2606.21327)|null|
+|**2026-06-19**|**Distinguishing indistinguishable attractors: Unsupervised anomaly detection with reservoir computers**|Davide Prosperino et.al.|[2606.21322](http://arxiv.org/abs/2606.21322)|null|
 |**2026-06-18**|**Kolmogorov-Arnold Reservoir Computing**|Juntian Huang et.al.|[2606.19984](http://arxiv.org/abs/2606.19984)|null|
 |**2026-06-17**|**Measurement-enabled online quantum processing with amplitude encoding**|Giacomo Franceschetto et.al.|[2606.18991](http://arxiv.org/abs/2606.18991)|null|
 |**2026-06-16**|**Reservoir computing based on multicore fibers**|Igor Chekhovskoy et.al.|[2606.17671](http://arxiv.org/abs/2606.17671)|null|
@@ -321,6 +331,9 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
+|**2026-06-20**|**An Analysis of Untrained Deep Reservoir Networks for Audio Surveillance**|Corrado Baccheschi et.al.|[2606.22218](http://arxiv.org/abs/2606.22218)|null|
+|**2026-06-19**|**Temporal processing of quantum states with hybrid quantum-classical reservoirs**|Mateu Coll-Comas et.al.|[2606.21327](http://arxiv.org/abs/2606.21327)|null|
 |**2026-06-05**|**The Whale That Outswam Evolution: Swarm Intelligence Maximises Memory in Connectome Reservoirs**|Anmol Guragain et.al.|[2606.09902](http://arxiv.org/abs/2606.09902)|null|
 |**2026-05-19**|**Evolutionary Algorithm for Reservoir Learning and Yielding**|Julien Testu et.al.|[2605.30372](http://arxiv.org/abs/2605.30372)|null|
 |**2026-05-27**|**Adaptive Reservoir Computing for Multi-Scenario Chaotic System Forecasting**|Shadmehr Zaregarizi et.al.|[2605.28145](http://arxiv.org/abs/2605.28145)|null|
