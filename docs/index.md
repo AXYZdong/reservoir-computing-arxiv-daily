@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.06.29
+## Updated on 2026.07.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Rare Earth Ion Coupling Implements Attention-Like Reservoir Computing**|Junyan Chen et.al.|[2606.31062](http://arxiv.org/abs/2606.31062)|null|
+|**2026-06-28**|**Geometric Approach to Zero-Memory Quantum Dot Reservoir Computing**|Bongsu Kim et.al.|[2606.29320](http://arxiv.org/abs/2606.29320)|null|
+|**2026-06-26**|**PRONE: Petrov-Galerkin Operator Learning Unifies DMD, SINDy & Koopmanism**|Matthew J. Colbrook et.al.|[2606.27982](http://arxiv.org/abs/2606.27982)|null|
 |**2026-06-25**|**One-shot prediction of noise-induced bifurcations with reservoir computing**|Nozomi Akashi et.al.|[2606.26727](http://arxiv.org/abs/2606.26727)|null|
 |**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
 |**2026-06-23**|**Attractor reconstruction in attracting subspaces: Slow-spectrum preshaping for reservoir computing under partial observation**|Satoshi Oishi et.al.|[2606.24303](http://arxiv.org/abs/2606.24303)|null|
