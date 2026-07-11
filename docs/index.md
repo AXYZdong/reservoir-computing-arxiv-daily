@@ -16,11 +16,20 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.07.06
+## Updated on 2026.07.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Manifold-adapted radial basis functions for reduced-order modelling of chaotic flows**|Miguel Pérez Cuadrado et.al.|[2607.08571](http://arxiv.org/abs/2607.08571)|null|
+|**2026-07-09**|**A crystal-field route to THz-driven magnetization**|T. Zalewski et.al.|[2607.08519](http://arxiv.org/abs/2607.08519)|null|
+|**2026-07-09**|**Perpendicular magnetic anisotropy tuning of macrospin-to-vortex transitions in Co-based artificial spin-vortex ice**|Yu Maruyama et.al.|[2607.08097](http://arxiv.org/abs/2607.08097)|null|
+|**2026-07-09**|**Robust Quantum Learning through Hamiltonian Reservoir Computing**|Youya Xu et.al.|[2607.08037](http://arxiv.org/abs/2607.08037)|null|
+|**2026-07-08**|**A Quantum Reservoir Architecture for Chaotic Forecasting and a Test of Whether Its High Dimension Helps**|Tushar Pandey et.al.|[2607.07978](http://arxiv.org/abs/2607.07978)|null|
+|**2026-07-04**|**Spin-orbit torque-driven synthetic antiferromagnetic oscillator**|P. K. Rout et.al.|[2607.03708](http://arxiv.org/abs/2607.03708)|null|
+|**2026-07-01**|**Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework**|Zefeng Zhang et.al.|[2607.02608](http://arxiv.org/abs/2607.02608)|null|
+|**2026-07-02**|**Thermodynamics of Quantum Reservoir Computing**|Lixiang Ding et.al.|[2607.02157](http://arxiv.org/abs/2607.02157)|null|
+|**2026-07-01**|**Exploiting Symmetry in Quantum Reservoir Computing**|Markus Baumann et.al.|[2607.01187](http://arxiv.org/abs/2607.01187)|null|
 |**2026-06-30**|**Rare Earth Ion Coupling Implements Attention-Like Reservoir Computing**|Junyan Chen et.al.|[2606.31062](http://arxiv.org/abs/2606.31062)|null|
 |**2026-06-28**|**Geometric Approach to Zero-Memory Quantum Dot Reservoir Computing**|Bongsu Kim et.al.|[2606.29320](http://arxiv.org/abs/2606.29320)|null|
 |**2026-06-26**|**PRONE: Petrov-Galerkin Operator Learning Unifies DMD, SINDy & Koopmanism**|Matthew J. Colbrook et.al.|[2606.27982](http://arxiv.org/abs/2606.27982)|null|
@@ -334,6 +343,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Leveraging Metrologically Useful States in Quantum Reservoir Networks**|Erik L. Connerty et.al.|[2607.06500](http://arxiv.org/abs/2607.06500)|null|
+|**2026-07-07**|**Scalable Perturbation Learning for Online Self-Supervised Echo State Networks**|Taiki Yamada et.al.|[2607.06079](http://arxiv.org/abs/2607.06079)|null|
 |**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
 |**2026-06-20**|**An Analysis of Untrained Deep Reservoir Networks for Audio Surveillance**|Corrado Baccheschi et.al.|[2606.22218](http://arxiv.org/abs/2606.22218)|null|
 |**2026-06-19**|**Temporal processing of quantum states with hybrid quantum-classical reservoirs**|Mateu Coll-Comas et.al.|[2606.21327](http://arxiv.org/abs/2606.21327)|null|
