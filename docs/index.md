@@ -16,11 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.07.13
+## Updated on 2026.07.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**A Reservoir Computing Approach to Quantum Gate Synthesis**|Francesco Caravelli et.al.|[2607.13887](http://arxiv.org/abs/2607.13887)|null|
+|**2026-07-14**|**Reproducible Reservoir Computing with Thermally Driven Superparamagnets: Controlling Temperature Sensitivity**|Zhengfei Chen et.al.|[2607.12840](http://arxiv.org/abs/2607.12840)|null|
+|**2026-07-13**|**Quantum magic and non-commutativity as computational resources in quantum reservoir computing**|Wei Xia et.al.|[2607.12035](http://arxiv.org/abs/2607.12035)|null|
+|**2026-07-13**|**Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting**|Rahul Goswami et.al.|[2607.11272](http://arxiv.org/abs/2607.11272)|null|
+|**2026-07-10**|**A Hybrid Quantum-Chaos Theory Approach to Image Encryption Using Reservoir Computing**|Naheen Mohd. Kadir et.al.|[2607.09923](http://arxiv.org/abs/2607.09923)|null|
+|**2026-07-10**|**When Classical Baselines Are Tuned as Carefully as the Quantum Model, Does Quantum Reservoir Computing Still Win?**|Tushar Pandey et.al.|[2607.09905](http://arxiv.org/abs/2607.09905)|null|
+|**2026-07-10**|**Diagnosing quantum reservoirs at scale based on expressivity and coverage**|Laia Domingo et.al.|[2607.09445](http://arxiv.org/abs/2607.09445)|null|
 |**2026-07-09**|**Manifold-adapted radial basis functions for reduced-order modelling of chaotic flows**|Miguel Pérez Cuadrado et.al.|[2607.08571](http://arxiv.org/abs/2607.08571)|null|
 |**2026-07-09**|**A crystal-field route to THz-driven magnetization**|T. Zalewski et.al.|[2607.08519](http://arxiv.org/abs/2607.08519)|null|
 |**2026-07-09**|**Perpendicular magnetic anisotropy tuning of macrospin-to-vortex transitions in Co-based artificial spin-vortex ice**|Yu Maruyama et.al.|[2607.08097](http://arxiv.org/abs/2607.08097)|null|
@@ -343,6 +350,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting**|Rahul Goswami et.al.|[2607.11272](http://arxiv.org/abs/2607.11272)|null|
 |**2026-07-07**|**Leveraging Metrologically Useful States in Quantum Reservoir Networks**|Erik L. Connerty et.al.|[2607.06500](http://arxiv.org/abs/2607.06500)|null|
 |**2026-07-07**|**Scalable Perturbation Learning for Online Self-Supervised Echo State Networks**|Taiki Yamada et.al.|[2607.06079](http://arxiv.org/abs/2607.06079)|null|
 |**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
