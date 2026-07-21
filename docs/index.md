@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**Edge of Stability in Nonlinear Photonic Reservoirs: Universal Design Principle for Exciton-Polariton Computing**|Xingran Xu et.al.|[2607.16706](http://arxiv.org/abs/2607.16706)|null|
+|**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](http://arxiv.org/abs/2607.14504)|null|
+|**2026-07-15**|**General theory of monitored Quantum Reservoir Computing**|Oriol Morguí-Sancho et.al.|[2607.14311](http://arxiv.org/abs/2607.14311)|null|
 |**2026-07-15**|**A Reservoir Computing Approach to Quantum Gate Synthesis**|Francesco Caravelli et.al.|[2607.13887](http://arxiv.org/abs/2607.13887)|null|
 |**2026-07-14**|**Reproducible Reservoir Computing with Thermally Driven Superparamagnets: Controlling Temperature Sensitivity**|Zhengfei Chen et.al.|[2607.12840](http://arxiv.org/abs/2607.12840)|null|
 |**2026-07-13**|**Quantum magic and non-commutativity as computational resources in quantum reservoir computing**|Wei Xia et.al.|[2607.12035](http://arxiv.org/abs/2607.12035)|null|
