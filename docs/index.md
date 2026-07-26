@@ -16,11 +16,20 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.07.21
+## Updated on 2026.07.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Driven criticality links universal computation and optimal representations**|Adrián Roig et.al.|[2607.21232](http://arxiv.org/abs/2607.21232)|null|
+|**2026-07-23**|**Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor**|Yan Meng Chong et.al.|[2607.20810](http://arxiv.org/abs/2607.20810)|null|
+|**2026-07-22**|**WiFi Sensing via Reservoir Computing**|Heping Wang et.al.|[2607.20103](http://arxiv.org/abs/2607.20103)|null|
+|**2026-07-21**|**Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design**|Krishna Bhatia et.al.|[2607.19506](http://arxiv.org/abs/2607.19506)|null|
+|**2026-07-20**|**Quantum Reservoir Computing: Recent Advances and Future Directions**|Shehbaz Tariq et.al.|[2607.18552](http://arxiv.org/abs/2607.18552)|null|
+|**2026-07-20**|**Intelligence from Learnable Novelty**|Yanbo Zhang et.al.|[2607.18433](http://arxiv.org/abs/2607.18433)|null|
+|**2026-07-20**|**Beyond the Edge of Chaos: Stability-Expressivity Transfer in Reservoir Forecasting**|Yao Du et.al.|[2607.17909](http://arxiv.org/abs/2607.17909)|null|
+|**2026-07-20**|**Organization of computation in reservoir computing**|Mohab Abdalla et.al.|[2607.17858](http://arxiv.org/abs/2607.17858)|null|
+|**2026-07-20**|**Photonic Memory as a Dynamical Phase for Neuromorphic Computing: A Unified Framework with Experimental Realization**|Isaac Yorke et.al.|[2607.17817](http://arxiv.org/abs/2607.17817)|null|
 |**2026-07-18**|**Edge of Stability in Nonlinear Photonic Reservoirs: Universal Design Principle for Exciton-Polariton Computing**|Xingran Xu et.al.|[2607.16706](http://arxiv.org/abs/2607.16706)|null|
 |**2026-07-16**|**Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction**|Yuito Ito et.al.|[2607.14504](http://arxiv.org/abs/2607.14504)|null|
 |**2026-07-15**|**General theory of monitored Quantum Reservoir Computing**|Oriol Morguí-Sancho et.al.|[2607.14311](http://arxiv.org/abs/2607.14311)|null|
@@ -353,6 +362,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
 |**2026-07-13**|**Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting**|Rahul Goswami et.al.|[2607.11272](http://arxiv.org/abs/2607.11272)|null|
 |**2026-07-07**|**Leveraging Metrologically Useful States in Quantum Reservoir Networks**|Erik L. Connerty et.al.|[2607.06500](http://arxiv.org/abs/2607.06500)|null|
 |**2026-07-07**|**Scalable Perturbation Learning for Online Self-Supervised Echo State Networks**|Taiki Yamada et.al.|[2607.06079](http://arxiv.org/abs/2607.06079)|null|
