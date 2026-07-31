@@ -16,12 +16,21 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.07.27
+## Updated on 2026.07.31
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-23**|**Driven criticality links universal computation and optimal representations**|Adrián Roig et.al.|[2607.21232](http://arxiv.org/abs/2607.21232)|null|
+|**2026-07-29**|**Dynamics-matched Physical Reservoir Computing for Undersensed Traffic Prediction**|Michael McCreesh et.al.|[2607.27371](http://arxiv.org/abs/2607.27371)|null|
+|**2026-07-29**|**Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices**|Harvey Samuel George Johnson et.al.|[2607.27140](http://arxiv.org/abs/2607.27140)|null|
+|**2026-07-27**|**Frequency-Based Reservoir computing**|Arthur S Powanwe et.al.|[2607.24420](http://arxiv.org/abs/2607.24420)|null|
+|**2026-07-27**|**Systematic Experiment Tracking in Quantum Software: A Case Study of Reservoir Computing with Error Mitigation**|Otso Kinanen et.al.|[2607.24264](http://arxiv.org/abs/2607.24264)|null|
+|**2026-07-27**|**Tree Tensor Network Reservoir Computing: Hierarchical Ensemble with Invariant Phase Boundaries**|Daiki Sasaki et.al.|[2607.24127](http://arxiv.org/abs/2607.24127)|null|
+|**2026-07-27**|**Autonomous Physical Computation: A Categorical Closure Criterion for Physical and Neuromorphic Reservoirs**|Nima Dehghani et.al.|[2607.23902](http://arxiv.org/abs/2607.23902)|null|
+|**2026-07-25**|**Approximate reservoir computing with a semiconductor laser for reducing energy consumption**|Tatsuki Ito et.al.|[2607.23288](http://arxiv.org/abs/2607.23288)|null|
+|**2026-07-25**|**Photonic reservoir computing with complex networks**|Sion Park et.al.|[2607.23285](http://arxiv.org/abs/2607.23285)|null|
+|**2026-07-25**|**Recycling computational processes of dynamic programming for combinatorial optimization problems: a reservoir computing approach**|Sora Todaka et.al.|[2607.23009](http://arxiv.org/abs/2607.23009)|null|
+|**2026-07-27**|**Driven criticality links universal computation and optimal representations**|Adrián Roig et.al.|[2607.21232](http://arxiv.org/abs/2607.21232)|null|
 |**2026-07-23**|**Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor**|Yan Meng Chong et.al.|[2607.20810](http://arxiv.org/abs/2607.20810)|null|
 |**2026-07-22**|**WiFi Sensing via Reservoir Computing**|Heping Wang et.al.|[2607.20103](http://arxiv.org/abs/2607.20103)|null|
 |**2026-07-21**|**Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design**|Krishna Bhatia et.al.|[2607.19506](http://arxiv.org/abs/2607.19506)|null|
@@ -362,10 +371,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Dynamics-matched Physical Reservoir Computing for Undersensed Traffic Prediction**|Michael McCreesh et.al.|[2607.27371](http://arxiv.org/abs/2607.27371)|null|
+|**2026-07-28**|**Mean-Tilted Relaxed Quantile Regression: Fixed-Content Interval Functionals and Generalized-Bayes Computation**|Antonio De Leon et.al.|[2607.26098](http://arxiv.org/abs/2607.26098)|null|
+|**2026-07-27**|**Tree Tensor Network Reservoir Computing: Hierarchical Ensemble with Invariant Phase Boundaries**|Daiki Sasaki et.al.|[2607.24127](http://arxiv.org/abs/2607.24127)|null|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
 |**2026-07-13**|**Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting**|Rahul Goswami et.al.|[2607.11272](http://arxiv.org/abs/2607.11272)|null|
 |**2026-07-07**|**Leveraging Metrologically Useful States in Quantum Reservoir Networks**|Erik L. Connerty et.al.|[2607.06500](http://arxiv.org/abs/2607.06500)|null|
-|**2026-07-07**|**Scalable Perturbation Learning for Online Self-Supervised Echo State Networks**|Taiki Yamada et.al.|[2607.06079](http://arxiv.org/abs/2607.06079)|null|
+|**2026-07-28**|**Scalable Perturbation Learning for Online Self-Supervised Learning in Echo State Networks**|Taiki Yamada et.al.|[2607.06079](http://arxiv.org/abs/2607.06079)|null|
 |**2026-06-23**|**Frequency Domain Reservoir Computing**|Klaus Schertler et.al.|[2606.24969](http://arxiv.org/abs/2606.24969)|null|
 |**2026-06-20**|**An Analysis of Untrained Deep Reservoir Networks for Audio Surveillance**|Corrado Baccheschi et.al.|[2606.22218](http://arxiv.org/abs/2606.22218)|null|
 |**2026-06-19**|**Temporal processing of quantum states with hybrid quantum-classical reservoirs**|Mateu Coll-Comas et.al.|[2606.21327](http://arxiv.org/abs/2606.21327)|null|
