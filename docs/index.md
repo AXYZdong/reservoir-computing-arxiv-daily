@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Learning a quantitative criterion for distinguishing chaos from noise**|Jaesung Choi et.al.|[2608.07109](http://arxiv.org/abs/2608.07109)|null|
+|**2026-08-06**|**Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot**|Hyoto Yamaguchi et.al.|[2608.05684](http://arxiv.org/abs/2608.05684)|null|
 |**2026-08-05**|**High-speed time-series prediction using compact memristor circuits with adjustable dynamics**|Dániel Molnár et.al.|[2608.04856](http://arxiv.org/abs/2608.04856)|null|
 |**2026-07-27**|**Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation**|Jyotiranjan Beuria et.al.|[2608.04028](http://arxiv.org/abs/2608.04028)|null|
 |**2026-08-04**|**A Low-Cost Hybrid Reservoir Computing Model for Isolated Sign Language Video Recognition**|Nitin Kumar Singh et.al.|[2608.03444](http://arxiv.org/abs/2608.03444)|null|
