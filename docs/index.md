@@ -16,11 +16,16 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.08.11
+## Updated on 2026.08.16
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**A Single Atom in Front of a Mirror is a Universal Reservoir Computer**|Peter J. Ehlers et.al.|[2608.10382](http://arxiv.org/abs/2608.10382)|null|
+|**2026-08-10**|**Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing Model**|Ilya Auslender et.al.|[2608.09773](http://arxiv.org/abs/2608.09773)|null|
+|**2026-08-11**|**Reservoir Computing with Heterogeneous Magnetic Metamaterials**|R. Yagan et.al.|[2608.08879](http://arxiv.org/abs/2608.08879)|null|
+|**2026-08-08**|**Energetic Cost of Temporal Information Processing in Quantum Reservoirs**|Gabriele Cenedese et.al.|[2608.08279](http://arxiv.org/abs/2608.08279)|null|
+|**2026-08-11**|**Storage, Scrambling, and Loss of Information in the Quantum Reservoir Computing Paradigm**|Nathan Keenan et.al.|[2608.07677](http://arxiv.org/abs/2608.07677)|null|
 |**2026-08-07**|**Learning a quantitative criterion for distinguishing chaos from noise**|Jaesung Choi et.al.|[2608.07109](http://arxiv.org/abs/2608.07109)|null|
 |**2026-08-06**|**Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot**|Hyoto Yamaguchi et.al.|[2608.05684](http://arxiv.org/abs/2608.05684)|null|
 |**2026-08-05**|**High-speed time-series prediction using compact memristor circuits with adjustable dynamics**|Dániel Molnár et.al.|[2608.04856](http://arxiv.org/abs/2608.04856)|null|
