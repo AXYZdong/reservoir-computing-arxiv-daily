@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.08.17
+## Updated on 2026.08.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing**|Elizabeth Robertson et.al.|[2608.17807](http://arxiv.org/abs/2608.17807)|null|
+|**2026-08-18**|**Fiber Nonlinearity Compensation of Coherent Signals Using Deep Photonic Reservoir Computer**|Yi-Wei Shen et.al.|[2608.17419](http://arxiv.org/abs/2608.17419)|null|
+|**2026-08-17**|**A magnonic-optoelectronic reservoir for physical reservoir computing**|Alexey B. Ustinov et.al.|[2608.16388](http://arxiv.org/abs/2608.16388)|null|
+|**2026-08-14**|**The Organization of Environmental Coupling Shapes What Quantum Reservoirs Remember**|Markus Baumann et.al.|[2608.14181](http://arxiv.org/abs/2608.14181)|null|
 |**2026-08-11**|**A Single Atom in Front of a Mirror is a Universal Reservoir Computer**|Peter J. Ehlers et.al.|[2608.10382](http://arxiv.org/abs/2608.10382)|null|
 |**2026-08-10**|**Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing Model**|Ilya Auslender et.al.|[2608.09773](http://arxiv.org/abs/2608.09773)|null|
 |**2026-08-11**|**Reservoir Computing with Heterogeneous Magnetic Metamaterials**|R. Yagan et.al.|[2608.08879](http://arxiv.org/abs/2608.08879)|null|
@@ -390,7 +394,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2026-07-27**|**Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation**|Jyotiranjan Beuria et.al.|[2608.04028](http://arxiv.org/abs/2608.04028)|null|
 |**2026-08-03**|**Real-Time Detection and Repair of LLM Agent Failures**|Sunny Dubey et.al.|[2608.02464](http://arxiv.org/abs/2608.02464)|null|
 |**2026-07-29**|**Dynamics-matched Physical Reservoir Computing for Undersensed Traffic Prediction**|Michael McCreesh et.al.|[2607.27371](http://arxiv.org/abs/2607.27371)|null|
-|**2026-07-28**|**Mean-Tilted Relaxed Quantile Regression: Fixed-Content Interval Functionals and Generalized-Bayes Computation**|Antonio De Leon et.al.|[2607.26098](http://arxiv.org/abs/2607.26098)|null|
+|**2026-08-15**|**Mean-Tilted Intervals: A Generalized-Bayes Approach to Fixed-Content and Tolerance Intervals**|Antonio De Leon et.al.|[2607.26098](http://arxiv.org/abs/2607.26098)|null|
 |**2026-07-27**|**Tree Tensor Network Reservoir Computing: Hierarchical Ensemble with Invariant Phase Boundaries**|Daiki Sasaki et.al.|[2607.24127](http://arxiv.org/abs/2607.24127)|null|
 |**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Radovan Gregor et.al.|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
 |**2026-07-13**|**Long-Memory Reservoir Computing for Data-Scarce Dengue Forecasting**|Rahul Goswami et.al.|[2607.11272](http://arxiv.org/abs/2607.11272)|null|
