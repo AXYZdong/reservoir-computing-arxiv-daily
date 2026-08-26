@@ -16,11 +16,16 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.08.24
+## Updated on 2026.08.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order PDE Forecasting**|Krishna Bhatia et.al.|[2608.23119](http://arxiv.org/abs/2608.23119)|null|
+|**2026-08-24**|**Identifying Probability Localization Dynamics via Structured Stochastic Liftings**|Fredy Vides et.al.|[2608.22686](http://arxiv.org/abs/2608.22686)|null|
+|**2026-08-21**|**Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir Computing**|Sara Malacarne et.al.|[2608.20998](http://arxiv.org/abs/2608.20998)|null|
+|**2026-08-20**|**Understanding the superiority of multi-model ensemble forecasts through reservoir computing**|Daniel Estevez Moya et.al.|[2608.20017](http://arxiv.org/abs/2608.20017)|null|
+|**2026-08-20**|**A charge selection rule fixes what a squeezed-light reservoir computer can compute and afford**|Daniel Soh et.al.|[2608.19668](http://arxiv.org/abs/2608.19668)|null|
 |**2026-08-18**|**Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing**|Elizabeth Robertson et.al.|[2608.17807](http://arxiv.org/abs/2608.17807)|null|
 |**2026-08-18**|**Fiber Nonlinearity Compensation of Coherent Signals Using Deep Photonic Reservoir Computer**|Yi-Wei Shen et.al.|[2608.17419](http://arxiv.org/abs/2608.17419)|null|
 |**2026-08-17**|**A magnonic-optoelectronic reservoir for physical reservoir computing**|Alexey B. Ustinov et.al.|[2608.16388](http://arxiv.org/abs/2608.16388)|null|
