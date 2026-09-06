@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.09.01
+## Updated on 2026.09.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Optical Reservoir Computing with Structural Nonlinearity for Forecasting Chaotic Time Series**|Leandro R. Venâncio et.al.|[2609.02733](http://arxiv.org/abs/2609.02733)|null|
+|**2026-09-02**|**Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot**|Jeevan Hebbal Manjunath et.al.|[2609.02157](http://arxiv.org/abs/2609.02157)|null|
+|**2026-09-01**|**Basin Geometry and Reliable Recall of Dynamical Memories in Reservoir Computing**|Ling-Wei Kong et.al.|[2609.01914](http://arxiv.org/abs/2609.01914)|null|
+|**2026-09-01**|**Predicting Phase Ordering in Chaotic Maps and Coupled Map Lattices**|Shiva Dixit et.al.|[2609.00983](http://arxiv.org/abs/2609.00983)|null|
 |**2026-08-28**|**From quantum reservoirs to quantum extreme learning machines through a nearest-neighbor spin chain with tunable quantum memory**|Carlos Ramon-Escandell et.al.|[2608.28440](http://arxiv.org/abs/2608.28440)|null|
 |**2026-08-28**|**Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale**|Andrea Ceni et.al.|[2608.28295](http://arxiv.org/abs/2608.28295)|null|
 |**2026-08-27**|**Asymmetric Coupling Anisotropy for Causal Information Filtering in Physical Reservoirs**|Takashi Hikihara et.al.|[2608.26741](http://arxiv.org/abs/2608.26741)|null|
