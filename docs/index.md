@@ -16,11 +16,20 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.09.07
+## Updated on 2026.09.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Coherent Floquet quantum reservoirs for molecular property prediction**|Luofei Wang et.al.|[2609.11071](http://arxiv.org/abs/2609.11071)|null|
+|**2026-09-08**|**Dual-unitary Circuits as a Platform for Quantum Reservoir Computing**|Gabriel O. Alves et.al.|[2609.09292](http://arxiv.org/abs/2609.09292)|null|
+|**2026-09-07**|**Photonic reservoir computing with dimensionally compressed readout**|Gerald Kobi et.al.|[2609.07418](http://arxiv.org/abs/2609.07418)|null|
+|**2026-09-07**|**Photonic Time-Delayed Quantum Extreme Learning Machine**|Ekaterina Protsenko et.al.|[2609.07416](http://arxiv.org/abs/2609.07416)|null|
+|**2026-09-07**|**Determinants of hyperparameter robustness in connectome reservoir computing**|Miles Walter Churchland et.al.|[2609.07355](http://arxiv.org/abs/2609.07355)|null|
+|**2026-09-06**|**Autonomous Chaotic Time Series Prediction using Physical Neuromorphic Networks**|Akshaya Rajesh et.al.|[2609.06395](http://arxiv.org/abs/2609.06395)|null|
+|**2026-09-05**|**Quantum Sensing of Non-Repeatable Events Enhanced by In-Sensor Quantum Reservoir Computing**|Daiki Sasaki et.al.|[2609.06292](http://arxiv.org/abs/2609.06292)|null|
+|**2026-09-05**|**Connectome-to-Function: Conditional Generative Latent Representations for Reservoir Computing**|Zhuolin Yu et.al.|[2609.06093](http://arxiv.org/abs/2609.06093)|null|
+|**2026-09-05**|**Optoelectronic Reservoir Computing with an On-Chip True-Time-Delay Element**|Ahmad Murad et.al.|[2609.05907](http://arxiv.org/abs/2609.05907)|null|
 |**2026-09-02**|**Optical Reservoir Computing with Structural Nonlinearity for Forecasting Chaotic Time Series**|Leandro R. Venâncio et.al.|[2609.02733](http://arxiv.org/abs/2609.02733)|null|
 |**2026-09-02**|**Towards Effective Physical Reservoir Computing with a Pneumatic Soft Robot**|Jeevan Hebbal Manjunath et.al.|[2609.02157](http://arxiv.org/abs/2609.02157)|null|
 |**2026-09-01**|**Basin Geometry and Reliable Recall of Dynamical Memories in Reservoir Computing**|Ling-Wei Kong et.al.|[2609.01914](http://arxiv.org/abs/2609.01914)|null|
@@ -403,6 +412,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Coherent Floquet quantum reservoirs for molecular property prediction**|Luofei Wang et.al.|[2609.11071](http://arxiv.org/abs/2609.11071)|null|
 |**2026-08-28**|**Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale**|Andrea Ceni et.al.|[2608.28295](http://arxiv.org/abs/2608.28295)|null|
 |**2026-08-05**|**Rethinking Reservoir Pruning: A Dynamical Perspective for Echo State Networks**|Sudip Laudari et.al.|[2608.04593](http://arxiv.org/abs/2608.04593)|null|
 |**2026-07-27**|**Lindblad-Inspired Multi-Timescale Reservoir Computing with Separable Rotation and Dissipation**|Jyotiranjan Beuria et.al.|[2608.04028](http://arxiv.org/abs/2608.04028)|null|
@@ -519,6 +529,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Endogenous Exploration in Reinforcement Learning with Intrinsic Curiosity**|Armando Vieira et.al.|[2609.05650](http://arxiv.org/abs/2609.05650)|null|
 |**2026-08-30**|**Adaptive Finite-Time Position-Force Control of Teleoperation Systems With Time-Varying Delays Using a Liquid State Machine Uncertainty Estimator**|Shayan Akbari Haghighat et.al.|[2608.29544](http://arxiv.org/abs/2608.29544)|null|
 |**2026-01-08**|**EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI**|Zain Iqbal et.al.|[2601.05205](http://arxiv.org/abs/2601.05205)|null|
 |**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
