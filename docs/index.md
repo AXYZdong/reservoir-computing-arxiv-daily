@@ -16,11 +16,14 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.09.16
+## Updated on 2026.09.21
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing**|Wen Sin Lor et.al.|[2609.20970](http://arxiv.org/abs/2609.20970)|null|
+|**2026-09-17**|**Dissipative phase transitions in quantum reservoir computing**|Da Zhang et.al.|[2609.20345](http://arxiv.org/abs/2609.20345)|null|
+|**2026-09-16**|**Temporal information processing on a 4,500-qubit quantum annealer**|Antonio Sannia et.al.|[2609.19308](http://arxiv.org/abs/2609.19308)|null|
 |**2026-09-13**|**Chirped Bragg Gratings as Passive Photonic Reservoirs: An Experimental Proof-of-Concept for Temporal Information Processing**|Isaac Yorke et.al.|[2609.14405](http://arxiv.org/abs/2609.14405)|null|
 |**2026-09-10**|**Feasibility and Memory Mechanisms of Chern-Simons Context Reservoir Computation**|Jyotiranjan Beuria et.al.|[2609.13315](http://arxiv.org/abs/2609.13315)|null|
 |**2026-09-11**|**LoRA-RC: Reservoir Computing with Low-Rank Adaptation**|Wenbin Wan et.al.|[2609.12327](http://arxiv.org/abs/2609.12327)|null|
@@ -416,6 +419,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Bayesian Quantile Deep Echo State Networks for Nonlinear Time Series**|Antonio De Leon et.al.|[2609.17579](http://arxiv.org/abs/2609.17579)|null|
 |**2026-09-10**|**A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons**|Yu-Xuan Fu et.al.|[2609.11922](http://arxiv.org/abs/2609.11922)|null|
 |**2026-09-10**|**Coherent Floquet quantum reservoirs for molecular property prediction**|Luofei Wang et.al.|[2609.11071](http://arxiv.org/abs/2609.11071)|null|
 |**2026-08-28**|**Memristive-Friendly Hadamard Reservoir Computing: Structured, Multiplier-Free Recurrences at Scale**|Andrea Ceni et.al.|[2608.28295](http://arxiv.org/abs/2608.28295)|null|
