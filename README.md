@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.09.21
+## Updated on 2026.09.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,14 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Dynamical Diversity for Reservoir Computing in Reconfigurable Nanomechanics**|Humayun Ahmed et.al.|[2609.29532](http://arxiv.org/abs/2609.29532)|null|
+|**2026-09-23**|**Analog neutral-atom for in-memory processing in quantum reservoir computing**|Luca Nigro et.al.|[2609.28441](http://arxiv.org/abs/2609.28441)|null|
+|**2026-09-22**|**Programmable Coherent Memory Kernels for Quantum Reservoir Computing in Waveguide QED**|Hong Jiang et.al.|[2609.27072](http://arxiv.org/abs/2609.27072)|null|
+|**2026-09-21**|**Inference of Unknown Dynamical Components Using Next Generation Reservoir Computing: From Chaotic Systems to Climate Data**|Jule Budnick et.al.|[2609.24754](http://arxiv.org/abs/2609.24754)|null|
+|**2026-09-21**|**Versatile Quantum Machine Learning with an Ultra-low Power Photonic Quantum Reservoir Computer**|Wei Wang et.al.|[2609.24381](http://arxiv.org/abs/2609.24381)|null|
+|**2026-09-20**|**Liouvillian Response for Temporal Information in Quantum Reservoir Computing**|Jiande Cao et.al.|[2609.23429](http://arxiv.org/abs/2609.23429)|null|
+|**2026-09-19**|**Gaussian quantum reservoir computing with a hybrid cavity magnomechanical system**|Hajar Assil et.al.|[2609.22791](http://arxiv.org/abs/2609.22791)|null|
+|**2026-09-18**|**Dynamics tuning with reservoir computer control**|Krithikesh Ravishankar et.al.|[2609.22496](http://arxiv.org/abs/2609.22496)|null|
 |**2026-09-17**|**Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing**|Wen Sin Lor et.al.|[2609.20970](http://arxiv.org/abs/2609.20970)|null|
 |**2026-09-17**|**Dissipative phase transitions in quantum reservoir computing**|Da Zhang et.al.|[2609.20345](http://arxiv.org/abs/2609.20345)|null|
 |**2026-09-16**|**Temporal information processing on a 4,500-qubit quantum annealer**|Antonio Sannia et.al.|[2609.19308](http://arxiv.org/abs/2609.19308)|null|
@@ -420,12 +428,14 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**Echo State Network (ESN) for Signal Recovery in RF-Impaired IBFD MIMO Systems**|Conrad Prisby et.al.|[2609.23945](http://arxiv.org/abs/2609.23945)|null|
+|**2026-09-01**|**Prediction of Nonlinear Oscillations in a Jumping Quarter-Car Model Using Reservoir Computing**|Masahisa Watanabe et.al.|[2609.22205](http://arxiv.org/abs/2609.22205)|null|
 |**2026-09-01**|**Bayesian Quantile Deep Echo State Networks for Nonlinear Time Series**|Antonio De Leon et.al.|[2609.17579](http://arxiv.org/abs/2609.17579)|null|
 |**2026-09-10**|**A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons**|Yu-Xuan Fu et.al.|[2609.11922](http://arxiv.org/abs/2609.11922)|null|
 |**2026-09-10**|**Coherent Floquet quantum reservoirs for molecular property prediction**|Luofei Wang et.al.|[2609.11071](http://arxiv.org/abs/2609.11071)|null|
@@ -541,12 +551,13 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## LSM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Heterogeneity-enhanced stochastic resonance improves liquid-state computing in delayed spiking neural networks**|Sandipan Nath et.al.|[2609.27896](http://arxiv.org/abs/2609.27896)|null|
 |**2026-09-04**|**Endogenous Exploration in Reinforcement Learning with Intrinsic Curiosity**|Armando Vieira et.al.|[2609.05650](http://arxiv.org/abs/2609.05650)|null|
 |**2026-08-30**|**Adaptive Finite-Time Position-Force Control of Teleoperation Systems With Time-Varying Delays Using a Liquid State Machine Uncertainty Estimator**|Shayan Akbari Haghighat et.al.|[2608.29544](http://arxiv.org/abs/2608.29544)|null|
 |**2026-01-08**|**EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI**|Zain Iqbal et.al.|[2601.05205](http://arxiv.org/abs/2601.05205)|null|
@@ -602,7 +613,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
