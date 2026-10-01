@@ -16,12 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.09.28
+## Updated on 2026.10.01
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-24**|**Dynamical Diversity for Reservoir Computing in Reconfigurable Nanomechanics**|Humayun Ahmed et.al.|[2609.29532](http://arxiv.org/abs/2609.29532)|null|
+|**2026-09-30**|**Non-Markovian dissipation as a resource for quantum reservoir computing**|Luca Nigro et.al.|[2609.40172](http://arxiv.org/abs/2609.40172)|null|
+|**2026-09-29**|**Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing**|Abhijit Sen et.al.|[2609.36901](http://arxiv.org/abs/2609.36901)|null|
+|**2026-09-28**|**Context-dependent time-series prediction via HyperReservoirs**|Kohei Tsuchiyama et.al.|[2609.34847](http://arxiv.org/abs/2609.34847)|null|
+|**2026-09-26**|**Uncertainty Quantification of Next Generation Reservoir Computing with Applications to Memory-Driven Dynamical Systems**|Livia Popa et.al.|[2609.32169](http://arxiv.org/abs/2609.32169)|null|
+|**2026-09-25**|**When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?**|Markus Baumann et.al.|[2609.31027](http://arxiv.org/abs/2609.31027)|null|
+|**2026-09-24**|**Benchmarking the Connectomes of Caenorhabditis elegans within the Reservoir Computing Framework**|Felix S. Reimers et.al.|[2609.30508](http://arxiv.org/abs/2609.30508)|null|
+|**2026-09-29**|**Dynamical Diversity for Reservoir Computing in Reconfigurable Nanomechanics**|Humayun Ahmed et.al.|[2609.29532](http://arxiv.org/abs/2609.29532)|null|
 |**2026-09-23**|**Analog neutral-atom for in-memory processing in quantum reservoir computing**|Luca Nigro et.al.|[2609.28441](http://arxiv.org/abs/2609.28441)|null|
 |**2026-09-22**|**Programmable Coherent Memory Kernels for Quantum Reservoir Computing in Waveguide QED**|Hong Jiang et.al.|[2609.27072](http://arxiv.org/abs/2609.27072)|null|
 |**2026-09-21**|**Inference of Unknown Dynamical Components Using Next Generation Reservoir Computing: From Chaotic Systems to Climate Data**|Jule Budnick et.al.|[2609.24754](http://arxiv.org/abs/2609.24754)|null|
@@ -427,6 +433,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Benchmarking the Connectomes of Caenorhabditis elegans within the Reservoir Computing Framework**|Felix S. Reimers et.al.|[2609.30508](http://arxiv.org/abs/2609.30508)|null|
 |**2026-09-20**|**Echo State Network (ESN) for Signal Recovery in RF-Impaired IBFD MIMO Systems**|Conrad Prisby et.al.|[2609.23945](http://arxiv.org/abs/2609.23945)|null|
 |**2026-09-01**|**Prediction of Nonlinear Oscillations in a Jumping Quarter-Car Model Using Reservoir Computing**|Masahisa Watanabe et.al.|[2609.22205](http://arxiv.org/abs/2609.22205)|null|
 |**2026-09-01**|**Bayesian Quantile Deep Echo State Networks for Nonlinear Time Series**|Antonio De Leon et.al.|[2609.17579](http://arxiv.org/abs/2609.17579)|null|
