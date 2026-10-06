@@ -16,11 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63**|João Böger et.al.|[2610.06798](http://arxiv.org/abs/2610.06798)|null|
+|**2026-10-04**|**Integrated robust universal linear optics based on white-boxed multi-plane light conversion**|Xin-Yu Song et.al.|[2610.05229](http://arxiv.org/abs/2610.05229)|null|
+|**2026-10-04**|**Theory of the Edge-of-Chaos Advantage in Quantum Reservoir Computing**|Shuaifan Cao et.al.|[2610.05213](http://arxiv.org/abs/2610.05213)|null|
+|**2026-10-03**|**A KKL Observer Perspective on Reservoir Computing**|Anastasia Bizyaeva et.al.|[2610.04343](http://arxiv.org/abs/2610.04343)|null|
+|**2026-10-03**|**Joint Forecasting of Extreme Events through Dual-Stage Cascade Reservoir Computing**|Yueyang Wang et.al.|[2610.04229](http://arxiv.org/abs/2610.04229)|null|
+|**2026-10-02**|**Efficiently and Reliably Measuring Information Processing Capacity in Dynamical Systems via Kernels**|Alessio Benavoli et.al.|[2610.03281](http://arxiv.org/abs/2610.03281)|null|
+|**2026-10-02**|**An Arrow of Time in Stable Autonomous Generation**|Zhixin Lu et.al.|[2610.02845](http://arxiv.org/abs/2610.02845)|null|
 |**2026-09-30**|**Non-Markovian dissipation as a resource for quantum reservoir computing**|Luca Nigro et.al.|[2609.40172](http://arxiv.org/abs/2609.40172)|null|
 |**2026-09-29**|**Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing**|Abhijit Sen et.al.|[2609.36901](http://arxiv.org/abs/2609.36901)|null|
 |**2026-09-28**|**Context-dependent time-series prediction via HyperReservoirs**|Kohei Tsuchiyama et.al.|[2609.34847](http://arxiv.org/abs/2609.34847)|null|
@@ -433,6 +440,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Efficiently and Reliably Measuring Information Processing Capacity in Dynamical Systems via Kernels**|Alessio Benavoli et.al.|[2610.03281](http://arxiv.org/abs/2610.03281)|null|
 |**2026-09-24**|**Benchmarking the Connectomes of Caenorhabditis elegans within the Reservoir Computing Framework**|Felix S. Reimers et.al.|[2609.30508](http://arxiv.org/abs/2609.30508)|null|
 |**2026-09-20**|**Echo State Network (ESN) for Signal Recovery in RF-Impaired IBFD MIMO Systems**|Conrad Prisby et.al.|[2609.23945](http://arxiv.org/abs/2609.23945)|null|
 |**2026-09-01**|**Prediction of Nonlinear Oscillations in a Jumping Quarter-Car Model Using Reservoir Computing**|Masahisa Watanabe et.al.|[2609.22205](http://arxiv.org/abs/2609.22205)|null|
