@@ -16,12 +16,16 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.06
+## Updated on 2026.10.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-05**|**A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63**|João Böger et.al.|[2610.06798](http://arxiv.org/abs/2610.06798)|null|
+|**2026-10-08**|**When Does Interference Help Learning? Kernel Geometry as a Pre-Experimental Test for Photonic Reservoir Computing**|Oishik Kar et.al.|[2610.11360](http://arxiv.org/abs/2610.11360)|null|
+|**2026-10-07**|**Matching of signal, noise and hardware timescales for filtering and forecasting of correlated noise signals**|Joshua Donald et.al.|[2610.10037](http://arxiv.org/abs/2610.10037)|null|
+|**2026-10-07**|**Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems**|Jianming Liu et.al.|[2610.09265](http://arxiv.org/abs/2610.09265)|null|
+|**2026-10-06**|**The internal model principle in reservoir computing**|Danyal Saqib et.al.|[2610.08987](http://arxiv.org/abs/2610.08987)|null|
+|**2026-10-06**|**A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63**|João Böger et.al.|[2610.06798](http://arxiv.org/abs/2610.06798)|null|
 |**2026-10-04**|**Integrated robust universal linear optics based on white-boxed multi-plane light conversion**|Xin-Yu Song et.al.|[2610.05229](http://arxiv.org/abs/2610.05229)|null|
 |**2026-10-04**|**Theory of the Edge-of-Chaos Advantage in Quantum Reservoir Computing**|Shuaifan Cao et.al.|[2610.05213](http://arxiv.org/abs/2610.05213)|null|
 |**2026-10-03**|**A KKL Observer Perspective on Reservoir Computing**|Anastasia Bizyaeva et.al.|[2610.04343](http://arxiv.org/abs/2610.04343)|null|
