@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.19
+## Updated on 2026.10.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,16 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings**|Yudai Ebato et.al.|[2610.25806](http://arxiv.org/abs/2610.25806)|null|
+|**2026-10-18**|**Increased-Order Generalized Synchronization in Memristive Neurons: Analytical and Data-Driven Approaches**|Dennis Mustafić et.al.|[2610.25164](http://arxiv.org/abs/2610.25164)|null|
+|**2026-10-16**|**Learning When to Listen: Physics-Informed Synchronization in Molecular Channels**|Osman Tugay Basaran et.al.|[2610.24181](http://arxiv.org/abs/2610.24181)|null|
+|**2026-10-15**|**Ordinal-pattern transition networks as a symbolic substrate for reservoir computing**|Max Potratzki et.al.|[2610.21973](http://arxiv.org/abs/2610.21973)|null|
+|**2026-10-19**|**Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization**|Gengcheng Lyu et.al.|[2610.21742](http://arxiv.org/abs/2610.21742)|null|
+|**2026-10-14**|**Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks**|Mario Mallea et.al.|[2610.19997](http://arxiv.org/abs/2610.19997)|null|
+|**2026-10-13**|**Quantum Reservoir Computing for Attention-like Selective Reproduction**|Hadi Zadeh-Haghighi et.al.|[2610.19272](http://arxiv.org/abs/2610.19272)|null|
+|**2026-10-13**|**Collective Benefits and Efficiency in Coupled Echo State Networks**|Polyphony Bruna et.al.|[2610.17506](http://arxiv.org/abs/2610.17506)|null|
+|**2026-10-12**|**Fading Memory and Nonlinear Dynamics in a Microring Resonator Network and their Use in Computation**|Alessandro Foradori et.al.|[2610.16432](http://arxiv.org/abs/2610.16432)|null|
+|**2026-10-11**|**Analyzing the Dynamics of WSBM-based Echo State Networks using InputDSA**|Huy Mai et.al.|[2610.15380](http://arxiv.org/abs/2610.15380)|null|
 |**2026-10-08**|**When Does Interference Help Learning? Kernel Geometry as a Pre-Experimental Test for Photonic Reservoir Computing**|Oishik Kar et.al.|[2610.11360](http://arxiv.org/abs/2610.11360)|null|
 |**2026-10-07**|**Matching of signal, noise and hardware timescales for filtering and forecasting of correlated noise signals**|Joshua Donald et.al.|[2610.10037](http://arxiv.org/abs/2610.10037)|null|
 |**2026-10-07**|**Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems**|Jianming Liu et.al.|[2610.09265](http://arxiv.org/abs/2610.09265)|null|
@@ -445,12 +455,21 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## ESN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings**|Yudai Ebato et.al.|[2610.25806](http://arxiv.org/abs/2610.25806)|null|
+|**2026-10-15**|**CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction**|Hariharan Srinivasan et.al.|[2610.22430](http://arxiv.org/abs/2610.22430)|null|
+|**2026-10-19**|**Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization**|Gengcheng Lyu et.al.|[2610.21742](http://arxiv.org/abs/2610.21742)|null|
+|**2026-10-14**|**Online training of Echo State Networks to predict chaotic dynamical systems**|Astero Provata et.al.|[2610.20147](http://arxiv.org/abs/2610.20147)|null|
+|**2026-10-14**|**Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks**|Mario Mallea et.al.|[2610.19997](http://arxiv.org/abs/2610.19997)|null|
+|**2026-10-13**|**Collective Benefits and Efficiency in Coupled Echo State Networks**|Polyphony Bruna et.al.|[2610.17506](http://arxiv.org/abs/2610.17506)|null|
+|**2026-10-12**|**A Time-Synchronous Prequential Evaluation Framework for Next-Week Student Disengagement Prediction from Moodle LMS Logs**|David Otoo-Arthur et.al.|[2610.17490](http://arxiv.org/abs/2610.17490)|null|
+|**2026-10-11**|**Analyzing the Dynamics of WSBM-based Echo State Networks using InputDSA**|Huy Mai et.al.|[2610.15380](http://arxiv.org/abs/2610.15380)|null|
+|**2026-10-10**|**Quantum-Fisher-information-aware optimization yields a quantum reservoir advantage over tuned classical reservoirs**|Phi Hung Nguyen et.al.|[2610.14454](http://arxiv.org/abs/2610.14454)|null|
 |**2026-10-02**|**Efficiently and Reliably Measuring Information Processing Capacity in Dynamical Systems via Kernels**|Alessio Benavoli et.al.|[2610.03281](http://arxiv.org/abs/2610.03281)|null|
 |**2026-09-24**|**Benchmarking the Connectomes of Caenorhabditis elegans within the Reservoir Computing Framework**|Felix S. Reimers et.al.|[2609.30508](http://arxiv.org/abs/2609.30508)|null|
 |**2026-09-20**|**Echo State Network (ESN) for Signal Recovery in RF-Impaired IBFD MIMO Systems**|Conrad Prisby et.al.|[2609.23945](http://arxiv.org/abs/2609.23945)|null|
@@ -570,7 +589,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## LSM
 
@@ -632,7 +651,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
