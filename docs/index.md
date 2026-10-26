@@ -16,11 +16,15 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.21
+## Updated on 2026.10.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Reservoir as a Dynamical System: A Tutorial Review**|Sarika Jalan et.al.|[2610.32421](http://arxiv.org/abs/2610.32421)|null|
+|**2026-10-23**|**Magnonic time crystal with lasing coherence**|Jiantao Song et.al.|[2610.32199](http://arxiv.org/abs/2610.32199)|null|
+|**2026-10-23**|**Scalable Reservoir Computing for Disturbance Localization and Identification in Power Grids**|Erin Obermayer et.al.|[2610.32010](http://arxiv.org/abs/2610.32010)|null|
+|**2026-10-22**|**Digital Twins of Networked Dynamical Systems: Machine Learning Prediction of Synchronization Transitions in Coupled Chaotic Oscillators**|Huawei Fan et.al.|[2610.30632](http://arxiv.org/abs/2610.30632)|null|
 |**2026-10-19**|**Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings**|Yudai Ebato et.al.|[2610.25806](http://arxiv.org/abs/2610.25806)|null|
 |**2026-10-18**|**Increased-Order Generalized Synchronization in Memristive Neurons: Analytical and Data-Driven Approaches**|Dennis Mustafić et.al.|[2610.25164](http://arxiv.org/abs/2610.25164)|null|
 |**2026-10-16**|**Learning When to Listen: Physics-Informed Synchronization in Molecular Channels**|Osman Tugay Basaran et.al.|[2610.24181](http://arxiv.org/abs/2610.24181)|null|

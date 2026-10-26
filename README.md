@@ -12,7 +12,7 @@
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.21
+## Updated on 2026.10.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,6 +26,10 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Reservoir as a Dynamical System: A Tutorial Review**|Sarika Jalan et.al.|[2610.32421](http://arxiv.org/abs/2610.32421)|null|
+|**2026-10-23**|**Magnonic time crystal with lasing coherence**|Jiantao Song et.al.|[2610.32199](http://arxiv.org/abs/2610.32199)|null|
+|**2026-10-23**|**Scalable Reservoir Computing for Disturbance Localization and Identification in Power Grids**|Erin Obermayer et.al.|[2610.32010](http://arxiv.org/abs/2610.32010)|null|
+|**2026-10-22**|**Digital Twins of Networked Dynamical Systems: Machine Learning Prediction of Synchronization Transitions in Coupled Chaotic Oscillators**|Huawei Fan et.al.|[2610.30632](http://arxiv.org/abs/2610.30632)|null|
 |**2026-10-19**|**Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings**|Yudai Ebato et.al.|[2610.25806](http://arxiv.org/abs/2610.25806)|null|
 |**2026-10-18**|**Increased-Order Generalized Synchronization in Memristive Neurons: Analytical and Data-Driven Approaches**|Dennis Mustafić et.al.|[2610.25164](http://arxiv.org/abs/2610.25164)|null|
 |**2026-10-16**|**Learning When to Listen: Physics-Informed Synchronization in Molecular Channels**|Osman Tugay Basaran et.al.|[2610.24181](http://arxiv.org/abs/2610.24181)|null|
@@ -455,7 +459,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2025-05-19**|**Phase transitions from linear to nonlinear information processing in neural networks**|Masaya Matsumura et.al.|[2505.13003](http://arxiv.org/abs/2505.13003)|null|
 |**2025-05-20**|**Exponential concentration and symmetries in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.10062](http://arxiv.org/abs/2505.10062)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 ## ESN
 
@@ -589,7 +593,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2024-08-28**|**Machine Learning of Nonlinear Dynamical Systems with Control Parameters Using Feedforward Neural Networks**|Hidetsugu Sakaguchi et.al.|[2409.07468](http://arxiv.org/abs/2409.07468)|null|
 |**2024-12-27**|**Control Pneumatic Soft Bending Actuator with Feedforward Hysteresis Compensation by Pneumatic Physical Reservoir Computing**|Junyi Shen et.al.|[2409.06961](http://arxiv.org/abs/2409.06961)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 ## LSM
 
@@ -651,7 +655,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
