@@ -16,11 +16,17 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.10.26
+## Updated on 2026.10.31
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**MulClip: A table-free activation function with monotonic and folding regimes for reservoir computing on microcontrollers**|Guren Matsumura et.al.|[2610.39343](http://arxiv.org/abs/2610.39343)|null|
+|**2026-10-27**|**Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons**|Aurora Micheli et.al.|[2610.37906](http://arxiv.org/abs/2610.37906)|null|
+|**2026-10-25**|**Extrapolating learned dynamics across bifurcations based on generalized synchronization**|Lingfeng Chen et.al.|[2610.34471](http://arxiv.org/abs/2610.34471)|null|
+|**2026-10-25**|**Emergent Recursive Kernels in Quantum Reservoir Computing**|Ce Wang et.al.|[2610.34430](http://arxiv.org/abs/2610.34430)|null|
+|**2026-10-25**|**Quantum neuroplastic learning for time-series processing**|Mostafizur Rahaman Laskar et.al.|[2610.34055](http://arxiv.org/abs/2610.34055)|null|
+|**2026-10-24**|**Optimal Connectivity of Random Boolean Networks for Reservoir Computing**|Christopher Michael Skeide Vibe et.al.|[2610.33498](http://arxiv.org/abs/2610.33498)|null|
 |**2026-10-23**|**Reservoir as a Dynamical System: A Tutorial Review**|Sarika Jalan et.al.|[2610.32421](http://arxiv.org/abs/2610.32421)|null|
 |**2026-10-23**|**Magnonic time crystal with lasing coherence**|Jiantao Song et.al.|[2610.32199](http://arxiv.org/abs/2610.32199)|null|
 |**2026-10-23**|**Scalable Reservoir Computing for Disturbance Localization and Identification in Power Grids**|Erin Obermayer et.al.|[2610.32010](http://arxiv.org/abs/2610.32010)|null|
@@ -590,6 +596,7 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons**|Aurora Micheli et.al.|[2610.37906](http://arxiv.org/abs/2610.37906)|null|
 |**2026-08-21**|**Heterogeneity-enhanced stochastic resonance improves liquid-state computing in delayed spiking neural networks**|Sandipan Nath et.al.|[2609.27896](http://arxiv.org/abs/2609.27896)|null|
 |**2026-09-04**|**Endogenous Exploration in Reinforcement Learning with Intrinsic Curiosity**|Armando Vieira et.al.|[2609.05650](http://arxiv.org/abs/2609.05650)|null|
 |**2026-08-30**|**Adaptive Finite-Time Position-Force Control of Teleoperation Systems With Time-Varying Delays Using a Liquid State Machine Uncertainty Estimator**|Shayan Akbari Haghighat et.al.|[2608.29544](http://arxiv.org/abs/2608.29544)|null|
