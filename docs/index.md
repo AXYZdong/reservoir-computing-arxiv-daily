@@ -16,11 +16,18 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.11.02
+## Updated on 2026.11.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Thermally-driven quantum reservoir computing**|Thiago Werlang et.al.|[2611.07187](http://arxiv.org/abs/2611.07187)|null|
+|**2026-11-04**|**Impact of Negative Weights on Performance in Reservoir Computing**|Yeonsu Jeong et.al.|[2611.06051](http://arxiv.org/abs/2611.06051)|null|
+|**2026-11-03**|**Analog signal processing, storage, and demultiplexing via in-materia wave-based computing**|Saeed Behboodi et.al.|[2611.05180](http://arxiv.org/abs/2611.05180)|null|
+|**2026-11-03**|**Anomaly Detection on Resource-Constrained Devices with Reservoir Computing**|Marco Angioli et.al.|[2611.04835](http://arxiv.org/abs/2611.04835)|null|
+|**2026-11-02**|**Hardware-Aware Design and Layout Selection in Quantum Reservoir Computing for Insurance Claims Forecasting**|Renáta Rusnáková et.al.|[2611.03891](http://arxiv.org/abs/2611.03891)|null|
+|**2026-10-31**|**Is Newborn Wiring Special? Separating Wiring from Weight Placement in Connectome Reservoirs**|Riccardo Bertamini et.al.|[2611.01213](http://arxiv.org/abs/2611.01213)|null|
+|**2026-10-29**|**RC Prediction: A Python Package for Parameter-Aware Reservoir Computing**|Jin-Cheng Rao et.al.|[2610.40984](http://arxiv.org/abs/2610.40984)|null|
 |**2026-10-29**|**MulClip: A table-free activation function with monotonic and folding regimes for reservoir computing on microcontrollers**|Guren Matsumura et.al.|[2610.39343](http://arxiv.org/abs/2610.39343)|null|
 |**2026-10-27**|**Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons**|Aurora Micheli et.al.|[2610.37906](http://arxiv.org/abs/2610.37906)|null|
 |**2026-10-25**|**Extrapolating learned dynamics across bifurcations based on generalized synchronization**|Lingfeng Chen et.al.|[2610.34471](http://arxiv.org/abs/2610.34471)|null|
@@ -464,9 +471,12 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Impact of Negative Weights on Performance in Reservoir Computing**|Yeonsu Jeong et.al.|[2611.06051](http://arxiv.org/abs/2611.06051)|null|
+|**2026-11-04**|**Local information processing capacity: anatomy of computation in neuromorphic systems**|Jiaxuan Chen et.al.|[2611.05959](http://arxiv.org/abs/2611.05959)|null|
+|**2026-10-29**|**RC Prediction: A Python Package for Parameter-Aware Reservoir Computing**|Jin-Cheng Rao et.al.|[2610.40984](http://arxiv.org/abs/2610.40984)|null|
 |**2026-10-19**|**Sector-Ring Linear Reservoirs: Sector-Wise Decay-Timescale Allocation With State Reuse Across Candidate Settings**|Yudai Ebato et.al.|[2610.25806](http://arxiv.org/abs/2610.25806)|null|
 |**2026-10-15**|**CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction**|Hariharan Srinivasan et.al.|[2610.22430](http://arxiv.org/abs/2610.22430)|null|
-|**2026-10-19**|**Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization**|Gengcheng Lyu et.al.|[2610.21742](http://arxiv.org/abs/2610.21742)|null|
+|**2026-11-04**|**Sparse Federated Echo State Networks for Time-Series Classification via Smooth-L1 Regularization**|Gengcheng Lyu et.al.|[2610.21742](http://arxiv.org/abs/2610.21742)|null|
 |**2026-10-14**|**Online training of Echo State Networks to predict chaotic dynamical systems**|Astero Provata et.al.|[2610.20147](http://arxiv.org/abs/2610.20147)|null|
 |**2026-10-14**|**Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks**|Mario Mallea et.al.|[2610.19997](http://arxiv.org/abs/2610.19997)|null|
 |**2026-10-13**|**Collective Benefits and Efficiency in Coupled Echo State Networks**|Polyphony Bruna et.al.|[2610.17506](http://arxiv.org/abs/2610.17506)|null|
