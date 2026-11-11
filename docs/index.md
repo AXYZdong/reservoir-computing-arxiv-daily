@@ -16,11 +16,13 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.11.09
+## Updated on 2026.11.11
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-07**|**Augur: An Online Learning-based Hardware Data Prefetcher using Reservoir Computing**|Satvik Maurya et.al.|[2611.10929](http://arxiv.org/abs/2611.10929)|null|
+|**2026-11-05**|**How Many Shots Does a Quantum Reservoir Need? Measurement Cost and Its Scaling in Buffered Quantum Reservoir Computing**|Raman Khurana et.al.|[2611.08632](http://arxiv.org/abs/2611.08632)|null|
 |**2026-11-04**|**Thermally-driven quantum reservoir computing**|Thiago Werlang et.al.|[2611.07187](http://arxiv.org/abs/2611.07187)|null|
 |**2026-11-04**|**Impact of Negative Weights on Performance in Reservoir Computing**|Yeonsu Jeong et.al.|[2611.06051](http://arxiv.org/abs/2611.06051)|null|
 |**2026-11-03**|**Analog signal processing, storage, and demultiplexing via in-materia wave-based computing**|Saeed Behboodi et.al.|[2611.05180](http://arxiv.org/abs/2611.05180)|null|
