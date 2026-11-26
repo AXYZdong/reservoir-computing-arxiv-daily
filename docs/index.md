@@ -16,13 +16,17 @@ layout: default
 
 This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
 including Echo State Networks (ESN) and Liquid State Machine (LSM).
-## Updated on 2026.11.23
+## Updated on 2026.11.26
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-22**|**Why Units Die in the Layer After a Frozen Random Encoder, and What the Number of Live Units Measures**|Scott M. Norton et.al.|[2611.29752](http://arxiv.org/abs/2611.29752)|null|
+|**2026-11-22**|**Subsurface Model Programming: Frontier Large Language Models Natively Interpret and Edit Dynamic Reservoir Models**|Yanchen Song et.al.|[2611.29612](http://arxiv.org/abs/2611.29612)|null|
+|**2026-11-19**|**Artificial Spin-Glass of Antiferromagnetic Co3O4 Nanocubes Using Spin-Polarized Oxygen**|Gurleen K. Uppal et.al.|[2611.26860](http://arxiv.org/abs/2611.26860)|null|
+|**2026-11-19**|**Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction**|Yicheng Song et.al.|[2611.26762](http://arxiv.org/abs/2611.26762)|null|
 |**2026-11-18**|**Topological Quantum Reservoir Computing**|Zhi-Lei Zhang et.al.|[2611.24013](http://arxiv.org/abs/2611.24013)|null|
-|**2026-11-17**|**Reconstructing hidden attractors with reservoir computing**|Mohammad Zaman et.al.|[2611.22918](http://arxiv.org/abs/2611.22918)|null|
+|**2026-11-24**|**Reconstructing hidden attractors with reservoir computing**|Mohammad Zaman et.al.|[2611.22918](http://arxiv.org/abs/2611.22918)|null|
 |**2026-11-16**|**Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction**|José Daniel Viqueira et.al.|[2611.21552](http://arxiv.org/abs/2611.21552)|null|
 |**2026-11-15**|**Generative Models using Multi-layer Quantum Extreme Learning Machines**|Amir Azzam et.al.|[2611.20139](http://arxiv.org/abs/2611.20139)|null|
 |**2026-11-13**|**Complex fluid flow dynamics by bright scattershot boson sampling**|Robert Schade et.al.|[2611.18510](http://arxiv.org/abs/2611.18510)|null|
@@ -483,6 +487,8 @@ including Echo State Networks (ESN) and Liquid State Machine (LSM).
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting**|Milad Panahi et.al.|[2611.34296](http://arxiv.org/abs/2611.34296)|null|
+|**2026-11-19**|**Harnessing Dephasing for Quantum Reservoir Computing with a Minimum Complexity Architecture: Applications to Nonlinear Time-Series Prediction**|Yicheng Song et.al.|[2611.26762](http://arxiv.org/abs/2611.26762)|null|
 |**2026-11-17**|**Replicating chaotic dynamics from sparse sensors with recurrent latent states**|Jan P. Williams et.al.|[2611.23434](http://arxiv.org/abs/2611.23434)|null|
 |**2026-11-15**|**Washout-free synchronization, parameter estimation and uncertainty quantification of echo state networks**|Andrea Nóvoa et.al.|[2611.20112](http://arxiv.org/abs/2611.20112)|null|
 |**2026-11-04**|**Impact of Negative Weights on Performance in Reservoir Computing**|Yeonsu Jeong et.al.|[2611.06051](http://arxiv.org/abs/2611.06051)|null|
